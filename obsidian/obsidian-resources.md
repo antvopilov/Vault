@@ -1,6 +1,0 @@
-[[obsidian]]
-
----
-
-
-- [[obsidian-resources-youtube]]

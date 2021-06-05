@@ -2,6 +2,6 @@
 
 ---
 
-# [[obsidian-resources-youtube]]
+# [[obsidian-youtube]]
 
 

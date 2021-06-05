@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "aa01f583712c71d1",
+        "id": "c136ce52ef6d873c",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -125,17 +125,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "aa01f583712c71d1",
+  "active": "c136ce52ef6d873c",
   "lastOpenFiles": [
-    "projects/math-animation.md",
-    "javascript/electron.md",
-    "javascript/handlebarsjs.md",
-    "javascript/react.md",
-    "javascript/Untitled.md",
-    "javascript/javascript.md",
-    "Untitled.md",
-    "resources/vuepress.md",
-    "resources/static-site-generators.md",
-    "resources/python-resources.md"
+    "resources.md",
+    "obsidian/100-obsidian-tips.md",
+    "obsidian/admonition.md",
+    "obsidian/obsidian-bryan-jenks.md",
+    "obsidian/query-example.md",
+    "obsidian/obsidian-resources-youtube.md",
+    "obsidian/obsidian-resources.md",
+    "obsidian/obsidian-resources-plugins.md",
+    "obsidian/Untitled.md",
+    "obsidian/obsidian.md"
   ]
 }

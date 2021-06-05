@@ -1,2 +1,2 @@
 # [[obsidian]]
-- [[obsidian-resources-youtube]]
+- [[obsidian-youtube]]
