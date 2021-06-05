@@ -1,28 +1,4 @@
 Awesome Mac
-----
-<!--rehype:style=font-size: 38px; border-bottom: 0; padding-bottom: 20px; padding-top: 26px;--> 
-
-[![jaywcjlove/sb](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/sindresorhus/awesome) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-zh.md) [![Gitter](https://jaywcjlove.github.io/sb/ico/gitter.svg)](https://gitter.im/awesome-mac/en?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge)
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjaywcjlove%2Fawesome-mac.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjaywcjlove%2Fawesome-mac?ref=badge_shield)
-[![Backers on Open Collective](https://opencollective.com/awesome-mac/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/awesome-mac/sponsors/badge.svg)](#sponsors)
-
- Now we have become very big and different from the original idea.
-Here we collect awesome macOS software in various categories. Feel free to **star** and **fork**.
-
-Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-mac/issues) We love PRs :) Please take a look at the [contributing](https://github.com/jaywcjlove/awesome-mac/blob/master/CONTRIBUTING.md) guidelines before opening one. Follow the [awesome](https://github.com/sindresorhus/awesome) list.
-
-**Explanation**
-
-[English](resources/Awesome-Mac/README.md) | [中文](README-zh.md)
-
-![Open-Source Software][OSS Icon] means **open source**, click to open **open source** repo;\
-![Freeware][Freeware Icon] means **free** to use, or **free** personal license;\
-![App Store][app-store Icon] means **App store** hyperlink;\
-![Awesome List][awesome-list Icon] means hyperlink to a corresponding **Awesome list** for the item;
-
-**Awesome Mac App for macOS**. Installers for the latest stable build for Mac can be [downloaded here](https://github.com/jaywcjlove/amac/releases).
-
-[![Get it on macOS](http://jaywcjlove.github.io/sb/download/macos.svg)](https://github.com/jaywcjlove/amac/releases)
 
 ## Contents
 
