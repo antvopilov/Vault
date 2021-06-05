@@ -6,10 +6,58 @@
       {
         "id": "9985ff6d9c6dd2a8",
         "type": "leaf",
+        "dimension": 25.96266044340724,
         "state": {
           "type": "empty",
           "state": {}
+        },
+        "group": "fbfcb646979a066b"
+      },
+      {
+        "id": "9b9ad30e454c40f8",
+        "type": "leaf",
+        "dimension": 12.98133022170362,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "GitHub/github-antvopilov.md",
+            "mode": "source"
+          }
         }
+      },
+      {
+        "id": "45c561036a1d80a3",
+        "type": "leaf",
+        "dimension": 6.49066511085181,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "GitHub/github.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "de60744a4820285c",
+        "type": "leaf",
+        "dimension": 6.49066511085181,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "GitHub/github-antvopilov.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "950feab550e45c92",
+        "type": "leaf",
+        "dimension": 48.07467911318552,
+        "state": {
+          "type": "empty",
+          "state": {}
+        },
+        "group": "fbfcb646979a066b"
       }
     ],
     "direction": "vertical"
@@ -92,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GitHub/github-antvopilov.md"
+              }
             }
           }
         ]
@@ -108,6 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GitHub/github-antvopilov.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,17 +176,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9985ff6d9c6dd2a8",
+  "active": "de60744a4820285c",
   "lastOpenFiles": [
+    "GitHub/github-antvopilov.md",
+    "GitHub/github.md",
+    "GitHub/github.repositories.md",
+    "GitHub/github.awesome-lists.md",
+    "GitHub/github.list.md",
+    "Foam/foam.md",
+    "Foam/knowledge-management.software.md",
+    "Foam/knowledge-management.md",
     "command-line/iterm2.md",
-    "command-line/explain-shell.md",
-    "command-line/cheat.sh.md",
-    "command-line/command-line.tools.md",
-    "resources/CommandLine/command-line.md",
-    "resources/Code/code.software.md",
-    "resources/Code/code.languages.md",
-    "resources/Code/code.editors.md",
-    "resources/Code/code.md",
-    "resources/Awesome-Mac/README.md"
+    "command-line/explain-shell.md"
   ]
 }
