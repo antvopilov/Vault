@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "resources/Python/python.md",
+            "file": "Untitled.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "resources/Python/python.md",
+            "file": "Untitled.md",
             "mode": "source"
           }
         },
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resources/Python/python.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources/Python/python.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,15 +146,15 @@
   },
   "active": "7079b1ef4a98c363",
   "lastOpenFiles": [
+    "Untitled.md",
+    "inbox.md",
+    "resources/Julia/julia.md",
+    "resources/Python/python-over.md",
+    "resources/Python/python-libraries.md",
+    "resources/Python/python-guide.md",
     "resources/Python/python.md",
     "code/readme.code.md",
     "index.md",
-    "inbox.md",
-    "readme.md",
-    "to-do.md",
-    "static-site-generators.md",
-    "Untitled.md",
-    "code/readme-code.md",
-    "code.md"
+    "readme.md"
   ]
 }
