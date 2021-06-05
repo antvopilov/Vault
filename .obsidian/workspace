@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "1eedc71fff7c5fcb",
+        "id": "1bf3e657569dfaac",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "research-notes/physics-notes/docs/fun0/relativity.md",
+            "file": "Untitled.md",
             "mode": "source"
           }
         },
-        "group": "7060e5a3795ab1ac"
+        "group": "1e2b8f4bd7f3fbca"
       },
       {
-        "id": "7fb82bc5ed8ef4b1",
+        "id": "5b5a4849f7b5c99f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "research-notes/physics-notes/docs/fun0/relativity.md",
+            "file": "Untitled.md",
             "mode": "preview"
           }
         },
-        "group": "7060e5a3795ab1ac"
+        "group": "1e2b8f4bd7f3fbca"
       }
     ],
     "direction": "vertical"
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "research-notes/physics-notes/docs/fun0/relativity.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "research-notes/physics-notes/docs/fun0/relativity.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,8 +152,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7fb82bc5ed8ef4b1",
+  "active": "1bf3e657569dfaac",
   "lastOpenFiles": [
+    "Untitled.md",
+    "symbolic-math.md",
     "research-notes/physics-notes/docs/fun0/relativity.md",
     "research-notes/physics-notes/docs/fun0/quantum.md",
     "research-notes/physics-notes/docs/fun0/math.md",
@@ -161,8 +163,6 @@
     "research-notes/physics-notes/README.md",
     "index.md",
     "_todo.md",
-    "_inbox.md",
-    "_index.md",
-    "github/_index.github.md"
+    "_inbox.md"
   ]
 }
