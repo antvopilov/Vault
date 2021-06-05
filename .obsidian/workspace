@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "research-notes/physics-notes/README.md",
             "mode": "source"
           }
         }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "research-notes/physics-notes/README.md"
               }
             }
           },
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "research-notes/physics-notes/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,6 +141,7 @@
   },
   "active": "1eedc71fff7c5fcb",
   "lastOpenFiles": [
+    "research-notes/physics-notes/README.md",
     "index.md",
     "_todo.md",
     "_inbox.md",
@@ -149,7 +150,6 @@
     "Untitled.md",
     "resources.md",
     "obsidian/100-obsidian-tips.md",
-    "obsidian/admonition.md",
-    "obsidian/obsidian-bryan-jenks.md"
+    "obsidian/admonition.md"
   ]
 }
