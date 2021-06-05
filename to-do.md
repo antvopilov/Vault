@@ -1,8 +1,4 @@
 
-[Home](index.md)
-
----
-
 # [TODO](to-do.md)
 
 - [ ] [Zotero Integration](https://www.youtube.com/watch?v=7qW2DEz6qrk)

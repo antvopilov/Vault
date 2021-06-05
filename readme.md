@@ -1,6 +1,4 @@
 # Knowledge Base Vault
 ---
 
-## Overview
-
-[[index|home]]
+[home](index.md)

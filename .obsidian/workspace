@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "to-do.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "to-do.md",
             "mode": "preview"
           }
         },
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "to-do.md"
               }
             }
           }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "to-do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,15 +146,15 @@
   },
   "active": "7079b1ef4a98c363",
   "lastOpenFiles": [
+    "to-do.md",
     "index.md",
+    "inbox.md",
     "readme.md",
+    "static-site-generators.md",
     "Untitled.md",
     "code/readme-code.md",
     "code.md",
     "resources/Anaconda/anaconda.md",
-    "Areas/Math/symbolic-math.md",
-    "Areas/Math/math.md",
-    "Areas/Code/code.md",
-    "awesome-lists.md"
+    "Areas/Math/symbolic-math.md"
   ]
 }
