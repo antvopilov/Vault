@@ -1,5 +1,6 @@
-# Personal Knowledge Management
+# Knowledge Base Vault
 ---
 
+## Overview
 
-https://github.com/antvopilov/Vault
+[[index|home]]

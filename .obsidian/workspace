@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "readme.md",
+            "file": "index.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "readme.md",
+            "file": "index.md",
             "mode": "preview"
           }
         },
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md"
+                "file": "index.md"
               }
             }
           }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,12 +146,12 @@
   },
   "active": "7079b1ef4a98c363",
   "lastOpenFiles": [
-    "Untitled.md",
     "index.md",
+    "readme.md",
+    "Untitled.md",
     "code/readme-code.md",
     "code.md",
     "resources/Anaconda/anaconda.md",
-    "readme.md",
     "Areas/Math/symbolic-math.md",
     "Areas/Math/math.md",
     "Areas/Code/code.md",
