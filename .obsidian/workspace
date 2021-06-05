@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "29d2afd4eecec109",
+    "type": "split",
+    "children": [
+      {
+        "id": "7079b1ef4a98c363",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "code/readme-code.md",
+            "mode": "source"
+          }
+        },
+        "group": "8e3434d9996df721"
+      },
+      {
+        "id": "b1de36d62822fe23",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "code/readme-code.md",
+            "mode": "preview"
+          }
+        },
+        "group": "8e3434d9996df721"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "db3ce69c6d936bed",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1266d4d5c958741",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27f6b2598cf0779d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "21180dc11e526ca0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 330.5121879577637
+  },
+  "right": {
+    "id": "25bcc719c0442731",
+    "type": "split",
+    "children": [
+      {
+        "id": "7db9a0b76d625873",
+        "type": "tabs",
+        "dimension": 59.92438563327032,
+        "children": [
+          {
+            "id": "250304fc82b98576",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d587e2b6801bcebb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Progress",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6604713a24cfb595",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "5dc7f888a39030ed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "code/readme-code.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "98511bf7b3ba077e",
+        "type": "tabs",
+        "dimension": 40.07561436672968,
+        "children": [
+          {
+            "id": "f4a9d1bd8a40b6c6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "code/readme-code.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7079b1ef4a98c363",
+  "lastOpenFiles": [
+    "code/readme-code.md",
+    "code.md",
+    "Untitled.md",
+    "resources/Anaconda/anaconda.md",
+    "readme.md",
+    "Areas/Math/symbolic-math.md",
+    "Areas/Math/math.md",
+    "Areas/Code/code.md",
+    "awesome-lists.md",
+    "vuepress.md"
+  ]
+}
