@@ -1,7 +1,8 @@
-[[index]]
+---
+aliases: home
+---
 
-## Projects
-## Areas
-## Resources
-## Archive
-## Library
+# [[index|home]]
+
+---
+

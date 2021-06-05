@@ -7,19 +7,25 @@
         "id": "7079b1ef4a98c363",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "readme.md",
+            "mode": "source"
+          }
         },
-        "group": "8e3434d9996df721"
+        "group": "b63db9926f06f7d2"
       },
       {
-        "id": "b1de36d62822fe23",
+        "id": "ba384acf54d2626a",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "readme.md",
+            "mode": "preview"
+          }
         },
-        "group": "8e3434d9996df721"
+        "group": "b63db9926f06f7d2"
       }
     ],
     "direction": "vertical"
@@ -102,7 +108,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "readme.md"
+              }
             }
           }
         ]
@@ -118,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,15 +146,15 @@
   },
   "active": "7079b1ef4a98c363",
   "lastOpenFiles": [
+    "Untitled.md",
+    "index.md",
     "code/readme-code.md",
     "code.md",
-    "Untitled.md",
     "resources/Anaconda/anaconda.md",
     "readme.md",
     "Areas/Math/symbolic-math.md",
     "Areas/Math/math.md",
     "Areas/Code/code.md",
-    "awesome-lists.md",
-    "vuepress.md"
+    "awesome-lists.md"
   ]
 }
