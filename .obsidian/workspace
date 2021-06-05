@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "resources/Python/python.md",
             "mode": "source"
           }
         },
@@ -21,8 +21,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
-            "mode": "preview"
+            "file": "resources/Python/python.md",
+            "mode": "source"
           }
         },
         "group": "b63db9926f06f7d2"
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "resources/Python/python.md"
               }
             }
           }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "resources/Python/python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +146,8 @@
   },
   "active": "7079b1ef4a98c363",
   "lastOpenFiles": [
+    "resources/Python/python.md",
+    "code/readme.code.md",
     "index.md",
     "inbox.md",
     "readme.md",
@@ -153,8 +155,6 @@
     "static-site-generators.md",
     "Untitled.md",
     "code/readme-code.md",
-    "code.md",
-    "resources/Anaconda/anaconda.md",
-    "Areas/Math/symbolic-math.md"
+    "code.md"
   ]
 }
