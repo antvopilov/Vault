@@ -7,11 +7,8 @@
         "id": "7079b1ef4a98c363",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "code/readme-code.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         },
         "group": "8e3434d9996df721"
       },
@@ -19,11 +16,8 @@
         "id": "b1de36d62822fe23",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "code/readme-code.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         },
         "group": "8e3434d9996df721"
       }
@@ -108,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "code/readme-code.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -126,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "code/readme-code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
