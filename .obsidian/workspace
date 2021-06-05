@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "markdown-it-py.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "markdown-it-py.md",
             "mode": "preview"
           }
         },
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "markdown-it-py.md"
               }
             }
           },
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "markdown-it-py.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,6 +154,7 @@
   },
   "active": "1bf3e657569dfaac",
   "lastOpenFiles": [
+    "Untitled 1.md",
     "Untitled.md",
     "symbolic-math.md",
     "research-notes/physics-notes/docs/fun0/relativity.md",
@@ -162,7 +163,6 @@
     "research-notes/physics-notes/docs/fun0/index.md",
     "research-notes/physics-notes/README.md",
     "index.md",
-    "_todo.md",
-    "_inbox.md"
+    "_todo.md"
   ]
 }
