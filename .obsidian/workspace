@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "c136ce52ef6d873c",
+        "id": "1eedc71fff7c5fcb",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "index.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -92,7 +95,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "index.md"
+              }
             }
           },
           {
@@ -116,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,17 +139,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c136ce52ef6d873c",
+  "active": "1eedc71fff7c5fcb",
   "lastOpenFiles": [
+    "index.md",
+    "_todo.md",
+    "_inbox.md",
+    "_index.md",
+    "github/_index.github.md",
+    "Untitled.md",
     "resources.md",
     "obsidian/100-obsidian-tips.md",
     "obsidian/admonition.md",
-    "obsidian/obsidian-bryan-jenks.md",
-    "obsidian/query-example.md",
-    "obsidian/obsidian-resources-youtube.md",
-    "obsidian/obsidian-resources.md",
-    "obsidian/obsidian-resources-plugins.md",
-    "obsidian/Untitled.md",
-    "obsidian/obsidian.md"
+    "obsidian/obsidian-bryan-jenks.md"
   ]
 }

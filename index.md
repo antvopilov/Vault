@@ -2,11 +2,11 @@
 aliases: home
 ---
 
-# [home](_index.md)
+# [home](index.md)
 
 - [GitHub](https://github.com/antvopilov/Vault)
-- [InBox](_inbox.md)
-- [To-Do](_todo.md)
+- [InBox](inbox.md)
+- [To-Do](todo.md)
 
 
 
