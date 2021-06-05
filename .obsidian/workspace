@@ -83,7 +83,7 @@
             "id": "6604713a24cfb595",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "empty",
               "state": {}
             }
           },
@@ -92,6 +92,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "4740f68110ccc83e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
               "state": {}
             }
           }
