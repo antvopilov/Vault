@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "resources/development-environment.md",
-            "mode": "source"
+            "file": "resources/python-resources.md",
+            "mode": "preview"
           }
         }
       }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resources/development-environment.md"
+                "file": "resources/python-resources.md"
               }
             }
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources/development-environment.md",
+                "file": "resources/python-resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,15 +133,15 @@
   },
   "active": "e29746927228d26e",
   "lastOpenFiles": [
+    "resources/python-resources.md",
+    "resources/academic.md",
+    "resources/academic-environment.md",
     "resources/development-environment.md",
     "resources/Writing/writing.publish.software.md",
     "resources/Writing/writing.publish.libraries.md",
     "resources/Writing/writing.publish.md",
     "resources/Writing/writing.md",
     "resources/Writing/executable-book-project.md",
-    "resources/Software/software.md",
-    "resources/Software/software.list.md",
-    "python/awesome-python-applications.md",
-    "resources/Markdown/whats-markdown-good-for.md"
+    "resources/Software/software.md"
   ]
 }
