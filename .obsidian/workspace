@@ -9,10 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "research-notes/physics-notes/README.md",
+            "file": "research-notes/physics-notes/docs/fun0/relativity.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "7060e5a3795ab1ac"
+      },
+      {
+        "id": "7fb82bc5ed8ef4b1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "research-notes/physics-notes/docs/fun0/relativity.md",
+            "mode": "preview"
+          }
+        },
+        "group": "7060e5a3795ab1ac"
       }
     ],
     "direction": "vertical"
@@ -96,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "research-notes/physics-notes/README.md"
+                "file": "research-notes/physics-notes/docs/fun0/relativity.md"
               }
             }
           },
@@ -121,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "research-notes/physics-notes/README.md",
+                "file": "research-notes/physics-notes/docs/fun0/relativity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,17 +152,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1eedc71fff7c5fcb",
+  "active": "7fb82bc5ed8ef4b1",
   "lastOpenFiles": [
+    "research-notes/physics-notes/docs/fun0/relativity.md",
+    "research-notes/physics-notes/docs/fun0/quantum.md",
+    "research-notes/physics-notes/docs/fun0/math.md",
+    "research-notes/physics-notes/docs/fun0/index.md",
     "research-notes/physics-notes/README.md",
     "index.md",
     "_todo.md",
     "_inbox.md",
     "_index.md",
-    "github/_index.github.md",
-    "Untitled.md",
-    "resources.md",
-    "obsidian/100-obsidian-tips.md",
-    "obsidian/admonition.md"
+    "github/_index.github.md"
   ]
 }
