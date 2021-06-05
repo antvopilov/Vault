@@ -2,15 +2,12 @@
 aliases: home
 ---
 
-# [[index|home]]
+# [home](index.md)
 
-- [GitHub Vault](https://github.com/antvopilov/Vault)
+- [GitHub](https://github.com/antvopilov/Vault)
 - [InBox](inbox.md)
-- [to-do](to-do.md)
+- [To-Do](to-do.md)
 
----
-
-## Resources
 
 
 
