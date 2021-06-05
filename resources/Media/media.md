@@ -1,5 +1,0 @@
-[[+home]]
-
-# [[media]]
-
-- [[media.series]]

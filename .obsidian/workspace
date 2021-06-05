@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "resources/Markdown/Tools  Markdown Guide.md",
-            "mode": "preview"
+            "file": "resources/development-environment.md",
+            "mode": "source"
           }
         }
       }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resources/Markdown/Tools  Markdown Guide.md"
+                "file": "resources/development-environment.md"
               }
             }
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources/Markdown/Tools  Markdown Guide.md",
+                "file": "resources/development-environment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,15 +133,15 @@
   },
   "active": "e29746927228d26e",
   "lastOpenFiles": [
-    "resources/Markdown/Tools  Markdown Guide.md",
-    "resources/Markdown/markdown.tools.md",
-    "resources/Markdown/markdown.libraries.md",
-    "resources/Markdown/markdown.guides.md",
-    "resources/Markdown/markdown.getting-started.md",
-    "resources/Markdown/markdown.cheat-sheet.md",
-    "resources/Markdown/markdown-it.md",
-    "resources/Markdown/markdown.md",
-    "resources/Markdown/additional-resources.md",
-    "resources/Manim/Manim.md"
+    "resources/development-environment.md",
+    "resources/Writing/writing.publish.software.md",
+    "resources/Writing/writing.publish.libraries.md",
+    "resources/Writing/writing.publish.md",
+    "resources/Writing/writing.md",
+    "resources/Writing/executable-book-project.md",
+    "resources/Software/software.md",
+    "resources/Software/software.list.md",
+    "python/awesome-python-applications.md",
+    "resources/Markdown/whats-markdown-good-for.md"
   ]
 }
