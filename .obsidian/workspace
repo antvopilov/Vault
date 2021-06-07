@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "navigation.md",
+            "file": "index.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "navigation.md",
+            "file": "index.md",
             "mode": "preview"
           }
         },
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "navigation.md"
+                "file": "index.md"
               }
             }
           },
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "navigation.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,10 +152,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1bf3e657569dfaac",
+  "active": "ed197f0f3ebdc8a6",
   "lastOpenFiles": [
-    "navigation.md",
     "index.md",
+    "navigation.md",
     "Untitled 1.md",
     "markdown-it-py.md",
     "Untitled.md",
