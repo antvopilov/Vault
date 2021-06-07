@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1st-year-calculus-but-in-python.md",
+            "file": "list.md",
             "mode": "source"
           }
         }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1st-year-calculus-but-in-python.md"
+                "file": "list.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1st-year-calculus-but-in-python.md",
+                "file": "list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,15 +149,15 @@
   },
   "active": "411f6f5d955a69a6",
   "lastOpenFiles": [
-    "1st-year-calculus-but-in-python.md",
-    "resources.md",
-    "inbox.md",
-    "README.md",
-    "pyhon.md",
-    "_templates/temp-content/tp-youtube.md",
-    "symbolic-math.md",
-    "_templates/temp-content/YouTube.md",
     "list.md",
-    "project-based-learning.md"
+    "Untitled.md",
+    "mac/awesome-mac.md",
+    "software/soft.list.md",
+    "mac/mac.md",
+    "resources.md",
+    "pyhon.md",
+    "python/python.md",
+    "1st-year-calculus-but-in-python.md",
+    "inbox.md"
   ]
 }
