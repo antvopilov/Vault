@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "list.md",
+            "file": "resources.md",
             "mode": "source"
           }
         }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "list.md"
+                "file": "resources.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "list.md",
+                "file": "resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,15 +149,15 @@
   },
   "active": "411f6f5d955a69a6",
   "lastOpenFiles": [
+    "resources.md",
+    "processing.md",
     "list.md",
+    "learning/project-based-learning.md",
     "Untitled.md",
     "mac/awesome-mac.md",
     "software/soft.list.md",
     "mac/mac.md",
-    "resources.md",
     "pyhon.md",
-    "python/python.md",
-    "1st-year-calculus-but-in-python.md",
-    "inbox.md"
+    "python/python.md"
   ]
 }
