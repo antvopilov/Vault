@@ -1,4 +1,4 @@
-categories: [[macos]], [[productivity]], [[cheat-sheet]], [[shortcuts]]
+categories: [[mac]], [[productivity]], [[cheat-sheet]], [[shortcuts]]
 
 # [[CustomShortcuts]]
 

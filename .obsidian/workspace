@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "tp-soft.md",
+            "file": "javascript/javascript.md",
             "mode": "source"
           }
         }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tp-soft.md"
+                "file": "javascript/javascript.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tp-soft.md",
+                "file": "javascript/javascript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,15 +149,15 @@
   },
   "active": "dd3a02d1d6a32e09",
   "lastOpenFiles": [
+    "javascript/javascript.md",
+    "javascript/electron.js.md",
+    "javascript/awesome-electron.md",
+    "mac/mac-awesome.md",
+    "macos/awesome-mac.md",
+    "macos/macos.md",
+    "navigation.md",
     "Untitled.md",
     "_templates/temp-content/tp-blog.md",
-    "blog-test.md",
-    "_templates/temp-content/Book.md",
-    "_templates/temp-content/Blog.md",
-    "textmate.md",
-    "text.md",
-    "macos/mac.md",
-    "editor.md",
-    "editors.md"
+    "blog-test.md"
   ]
 }

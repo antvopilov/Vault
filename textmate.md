@@ -2,7 +2,7 @@
 
 
 
-[[textmate|TextMate]] - is [[text]] [[editor]] for [[macos]]
+[[textmate|TextMate]] - is [[text]] [[editor]] for [[mac]]
 
 
 ## Install
