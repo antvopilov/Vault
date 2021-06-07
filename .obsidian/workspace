@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "javascript/javascript.md",
+            "file": "create-react-app.md",
             "mode": "source"
           }
         }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "javascript/javascript.md"
+                "file": "create-react-app.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "javascript/javascript.md",
+                "file": "create-react-app.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,15 +149,15 @@
   },
   "active": "dd3a02d1d6a32e09",
   "lastOpenFiles": [
-    "javascript/javascript.md",
+    "create-react-app.md",
+    "javascript-frameworks.md",
+    "react-native.js.md",
+    "javascript/react.js.md",
     "javascript/electron.js.md",
+    "javascript/javascript.md",
     "javascript/awesome-electron.md",
     "mac/mac-awesome.md",
     "macos/awesome-mac.md",
-    "macos/macos.md",
-    "navigation.md",
-    "Untitled.md",
-    "_templates/temp-content/tp-blog.md",
-    "blog-test.md"
+    "macos/macos.md"
   ]
 }
