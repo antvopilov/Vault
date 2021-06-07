@@ -1,4 +1,4 @@
-[[code]] [[soft]]
+[[code]] [[editor]] [[soft]]
 
 # [[atom.io]]
 

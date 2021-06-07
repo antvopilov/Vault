@@ -1,3 +1,3 @@
 [[soft.list]]
 
-[[code-editors]]
+[[editor]]

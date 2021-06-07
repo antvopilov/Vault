@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "ca4ef53e863d4186",
+        "id": "dd3a02d1d6a32e09",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "tex.tutorials.md",
-            "mode": "preview"
+            "file": "textmate.md",
+            "mode": "source"
           }
         }
       }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tex.tutorials.md"
+                "file": "textmate.md"
               }
             }
           },
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tex.tutorials.md",
+                "file": "textmate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,17 +146,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ca4ef53e863d4186",
+  "active": "dd3a02d1d6a32e09",
   "lastOpenFiles": [
+    "textmate.md",
+    "editors.md",
+    "atom/atom.io.md",
+    "code-editors.md",
+    "Untitled.md",
     "tex.tutorials.md",
     "science/academic.md",
     "academic/academic.md",
     "tex/tex.md",
-    "tex/tex.packages.md",
-    "tex/tex.software.md",
-    "tex/mactex.md",
-    "tex/miktex.md",
-    "tex/latex.md",
-    "+home.md"
+    "tex/tex.packages.md"
   ]
 }
