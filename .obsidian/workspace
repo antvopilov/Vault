@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "markdown-it-py.md",
+            "file": "start-here.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "markdown-it-py.md",
+            "file": "start-here.md",
             "mode": "preview"
           }
         },
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "markdown-it-py.md"
+                "file": "start-here.md"
               }
             }
           },
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "markdown-it-py.md",
+                "file": "start-here.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,8 +154,8 @@
   },
   "active": "1bf3e657569dfaac",
   "lastOpenFiles": [
-    "markdown-it-py.md",
     "Untitled 1.md",
+    "markdown-it-py.md",
     "Untitled.md",
     "symbolic-math.md",
     "research-notes/physics-notes/docs/fun0/relativity.md",
