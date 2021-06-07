@@ -1,7 +1,7 @@
-blog: {{title}}
-author:
-categories:
-site:
+- blog: {{title}}
+- author:
+- categories:
+- site:
 
 ---
 

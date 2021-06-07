@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_templates/temp-content/Book.md",
+            "file": "tp-soft.md",
             "mode": "source"
           }
         }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_templates/temp-content/Book.md"
+                "file": "tp-soft.md"
               }
             }
           },
@@ -116,7 +116,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "98511bf7b3ba077e",
@@ -129,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_templates/temp-content/Book.md",
+                "file": "tp-soft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,15 +149,15 @@
   },
   "active": "dd3a02d1d6a32e09",
   "lastOpenFiles": [
-    "_templates/temp-content/Book.md",
-    "_templates/temp-content/tp-blog.md",
     "Untitled.md",
+    "_templates/temp-content/tp-blog.md",
+    "blog-test.md",
+    "_templates/temp-content/Book.md",
     "_templates/temp-content/Blog.md",
     "textmate.md",
     "text.md",
     "macos/mac.md",
     "editor.md",
-    "editors.md",
-    "atom/atom.io.md"
+    "editors.md"
   ]
 }
