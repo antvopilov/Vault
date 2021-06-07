@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "create-react-app.md",
+            "file": "react-native.js.md",
             "mode": "source"
           }
         }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "create-react-app.md"
+                "file": "react-native.js.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "create-react-app.md",
+                "file": "react-native.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,15 +149,15 @@
   },
   "active": "dd3a02d1d6a32e09",
   "lastOpenFiles": [
-    "create-react-app.md",
-    "javascript-frameworks.md",
     "react-native.js.md",
+    "javascript-frameworks.md",
     "javascript/react.js.md",
+    "node.js.md",
+    "typescript.md",
+    "tree.js.md",
+    "javascript/vue.js.md",
+    "create-react-app.md",
     "javascript/electron.js.md",
-    "javascript/javascript.md",
-    "javascript/awesome-electron.md",
-    "mac/mac-awesome.md",
-    "macos/awesome-mac.md",
-    "macos/macos.md"
+    "javascript/javascript.md"
   ]
 }
