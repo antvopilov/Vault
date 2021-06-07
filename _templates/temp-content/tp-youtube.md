@@ -1,8 +1,9 @@
-title: {{title}}
-link:
-channel:
-categories:
-tags: #youtube
+- title: {{title}}
+- link:
+- status: #watch-it-later
+- channel:
+- categories:
+- tags: #youtube
 
 # [[{{title}}]]
 
