@@ -4,13 +4,7 @@ aliases: Welcome
 
 # [Welcome](index.md)
 
-### Projects
-### Areas
-### Resources
-### Archive
-#### How To
-#### Library
-#### Articles
+[[navigation]]
 
 - [GitHub](https://github.com/antvopilov/Vault)
 - [InBox](inbox.md)
