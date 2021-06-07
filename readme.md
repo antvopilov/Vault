@@ -1,12 +1,15 @@
 ---
 aliases: 
-- About
 - Knowledge Base
 ---
 
 # Knowledge Base
 
-[[_index]]
+![[quick-links#quick-links Quick Links]]
+
+
+
+
 
 
 

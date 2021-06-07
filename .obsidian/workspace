@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "map.md",
             "mode": "source"
           }
         }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "map.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,15 +157,15 @@
   },
   "active": "40141bd6ba7aa26e",
   "lastOpenFiles": [
+    "Untitled.md",
     "README.md",
+    "docs/theoretical-physics/physics-notes/docs/fun0/index.md",
     "quick-links.md",
     "inbox.md",
     "2021-06-08.md",
     "quik.md",
     "test.md",
     "qui.md",
-    "_templates/tmp_test.md",
-    "Untitled.md",
-    "pycharm/pycharm.md"
+    "_templates/tmp_test.md"
   ]
 }
