@@ -1,4 +1,4 @@
-[[tex]] -  [[tex]] - [[tex.software]] - [[mac]]
+[[tex]] [[soft]] 
 
 ---
 

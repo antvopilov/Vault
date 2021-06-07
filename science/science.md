@@ -1,4 +1,4 @@
-# Academic
+# [[science]]
 
 ## Resources
 

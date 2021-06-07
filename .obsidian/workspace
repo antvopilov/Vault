@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "tex/miktex.md",
+            "file": "science/science.md",
             "mode": "source"
           }
         }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tex/miktex.md"
+                "file": "science/science.md"
               }
             }
           },
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tex/miktex.md",
+                "file": "science/science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,20 +144,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "ca4ef53e863d4186",
   "lastOpenFiles": [
-    "tex/miktex.md",
+    "science/academic.md",
+    "academic/academic.md",
+    "tex/tex.md",
+    "tex/tex.packages.md",
     "tex/tex.software.md",
+    "tex/mactex.md",
+    "tex/miktex.md",
     "tex/latex.md",
     "+home.md",
-    "tex/tex.md",
-    "code-editors.md",
-    "atom/atom.io.md",
-    "software/software.md",
-    "software/software.list.md",
-    "python/python.md"
+    "code-editors.md"
   ]
 }

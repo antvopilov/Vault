@@ -4,10 +4,6 @@
 
 # [[tex|Tex Map]]
 
-
-- [[tex.software]]
-- [[tex.packages]]
-
 ## Tex Environment
 
 - [[miktex]]
