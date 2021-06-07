@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "science/science.md",
-            "mode": "source"
+            "file": "tex.tutorials.md",
+            "mode": "preview"
           }
         }
       }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "science/science.md"
+                "file": "tex.tutorials.md"
               }
             }
           },
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "science/science.md",
+                "file": "tex.tutorials.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,6 +148,7 @@
   },
   "active": "ca4ef53e863d4186",
   "lastOpenFiles": [
+    "tex.tutorials.md",
     "science/academic.md",
     "academic/academic.md",
     "tex/tex.md",
@@ -156,7 +157,6 @@
     "tex/mactex.md",
     "tex/miktex.md",
     "tex/latex.md",
-    "+home.md",
-    "code-editors.md"
+    "+home.md"
   ]
 }
