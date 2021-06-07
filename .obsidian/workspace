@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "411f6f5d955a69a6",
+        "id": "a02d0dbe505a21ca",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "inbox.md",
+            "file": "test.md",
             "mode": "source"
           }
         }
@@ -45,7 +45,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5121879577637
+    "width": 330.5121879577637,
+    "collapsed": true
   },
   "right": {
     "id": "25bcc719c0442731",
@@ -96,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox.md"
+                "file": "test.md"
               }
             }
           },
@@ -130,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox.md",
+                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,10 +146,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "411f6f5d955a69a6",
+  "active": "a02d0dbe505a21ca",
   "lastOpenFiles": [
+    "Untitled.md",
     "inbox.md",
     "pycharm/pycharm.md",
     "_index.md",
@@ -157,7 +160,6 @@
     "jupyter-lab/awesome-jupyterLab.md",
     "jupyter-lab/JupyterLab Extensions.md",
     "jupyter-lab/JupyterLab.md",
-    "jupyter-lab/Awesome JupyterLab.md",
-    "jupyter-book/jupyter-book-showcase.md"
+    "jupyter-lab/Awesome JupyterLab.md"
   ]
 }
