@@ -8,13 +8,13 @@ aliases: Welcome
 
 ## Main Topics
 
-| [[science]] | [[physics]] | [[math]] | [[cosmology]] |
-| ----------- | ----------- | -------- | ------------- |
-| ___         |             |          |               |
-|             |             |          |               |
+[[science]] [[math]] [[physics]] [[cosmology]]
 
+[[code]] [[python]] [[julia]] [[mathematica]] [[sagemath]]
 
+[[research]] [[academic-writing]]
 
+[[resources]] [[library]] [[reading]] [[howto]] 
 
 
 
