@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "textmate.md",
+            "file": "_templates/temp-content/Book.md",
             "mode": "source"
           }
         }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "textmate.md"
+                "file": "_templates/temp-content/Book.md"
               }
             }
           },
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "textmate.md",
+                "file": "_templates/temp-content/Book.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,15 +148,15 @@
   },
   "active": "dd3a02d1d6a32e09",
   "lastOpenFiles": [
+    "_templates/temp-content/Book.md",
+    "_templates/temp-content/tp-blog.md",
+    "Untitled.md",
+    "_templates/temp-content/Blog.md",
     "textmate.md",
     "text.md",
     "macos/mac.md",
     "editor.md",
     "editors.md",
-    "atom/atom.io.md",
-    "code-editors.md",
-    "Untitled.md",
-    "tex.tutorials.md",
-    "science/academic.md"
+    "atom/atom.io.md"
   ]
 }
