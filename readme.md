@@ -1,11 +1,13 @@
 ---
-aliases: 
+aliases:
+- knowledge-base
 - Knowledge Base
 ---
 
-# Knowledge Base
+# [[README|Knowledge Base]]
 
 ![[quick-links#quick-links Quick Links]]
+
 
 
 

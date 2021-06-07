@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "40141bd6ba7aa26e",
+        "id": "ad1feb4d1320b45f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_scripts/README.md",
+            "file": "map.md",
             "mode": "source"
           }
         }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_scripts/README.md"
+                "file": "map.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_scripts/README.md",
+                "file": "map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,17 +155,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "40141bd6ba7aa26e",
+  "active": "ad1feb4d1320b45f",
   "lastOpenFiles": [
+    "map.md",
+    "_scripts/README.md",
+    "README.md",
+    "docs/notes/about.md",
     "_scripts/index.scripts.md",
     "Untitled.md",
-    "README.md",
     "docs/theoretical-physics/physics-notes/docs/fun0/index.md",
     "quick-links.md",
     "inbox.md",
-    "2021-06-08.md",
-    "quik.md",
-    "test.md",
-    "qui.md"
+    "2021-06-08.md"
   ]
 }

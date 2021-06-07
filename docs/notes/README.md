@@ -1,4 +1,8 @@
-# [[about]]
+---
+aliases: notes
+---
+
+# [[docs/notes/README]]
 
 ## Table Of Contents
 

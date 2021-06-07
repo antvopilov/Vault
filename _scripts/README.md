@@ -1,7 +1,9 @@
 ---
-aliasr
+aliases: scripts, Scripts
 ---
-# Scripts
+
+# [[_scripts/README|scripts]]
+
 
 ### format
 ### .rst to .md converter
