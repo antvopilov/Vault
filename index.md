@@ -16,6 +16,17 @@ aliases: Welcome
 
 [[resources]] [[library]] [[reading]] [[howto]] 
 
+## Tags
+
+Type of content:
+
+#book #paper #article #youtube #github #awesome #list #toc #moc
+
+Status:
+
+#progress #complete
+
+
 
 
 

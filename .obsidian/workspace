@@ -129,8 +129,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       },
       {
         "id": "98511bf7b3ba077e",
@@ -163,6 +162,7 @@
   "active": "558c56c52a36b559",
   "lastOpenFiles": [
     "index.md",
+    "resources.md",
     "research-notes/physics-notes/docs/fun0/math.md",
     "README.md",
     "Untitled.md",
@@ -170,7 +170,6 @@
     "github/Untitled.md",
     "github/github-antvopilov.md",
     "navigation.md",
-    "Untitled 1.md",
-    "markdown-it-py.md"
+    "Untitled 1.md"
   ]
 }
