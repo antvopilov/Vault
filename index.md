@@ -1,8 +1,10 @@
 ---
-aliases: home
+aliases: Welcome
 ---
 
-# [home](index.md)
+# [Welcome](index.md)
+
+## 
 
 - [GitHub](https://github.com/antvopilov/Vault)
 - [InBox](inbox.md)
