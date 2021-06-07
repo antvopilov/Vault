@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "inbox.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -150,6 +150,7 @@
   "active": "411f6f5d955a69a6",
   "lastOpenFiles": [
     "inbox.md",
+    "pycharm/pycharm.md",
     "_index.md",
     "jupyter-lab/jupyterlab-extensions.md",
     "jupyter-lab/jupyterlab.md",
@@ -157,7 +158,6 @@
     "jupyter-lab/JupyterLab Extensions.md",
     "jupyter-lab/JupyterLab.md",
     "jupyter-lab/Awesome JupyterLab.md",
-    "jupyter-book/jupyter-book-showcase.md",
-    "command-line/explain-shell.md"
+    "jupyter-book/jupyter-book-showcase.md"
   ]
 }
