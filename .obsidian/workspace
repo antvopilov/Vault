@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "blog-test.md",
+            "file": "project-based-learning.md",
             "mode": "source"
           }
         }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog-test.md"
+                "file": "project-based-learning.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog-test.md",
+                "file": "project-based-learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,15 +149,15 @@
   },
   "active": "411f6f5d955a69a6",
   "lastOpenFiles": [
+    "project-based-learning.md",
+    "markdown-it-py.md",
+    "inbox.md",
+    "github/github.awesome-lists.md",
+    "github/index.github.md",
+    "github/github-antvopilov.md",
+    "github/github.md",
+    "github-antvopilov.md",
     "blog-test.md",
-    "typescript.md",
-    "javascript/javascript.md",
-    "tree.js.md",
-    "javascript-frameworks.md",
-    "node.js.md",
-    "javascript/vue.js.md",
-    "javascript/electron.js.md",
-    "react-native.js.md",
-    "javascript/react.js.md"
+    "typescript.md"
   ]
 }
