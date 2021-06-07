@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "project-based-learning.md",
+            "file": "_templates/temp-content/tp-youtube.md",
             "mode": "source"
           }
         }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project-based-learning.md"
+                "file": "_templates/temp-content/tp-youtube.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "project-based-learning.md",
+                "file": "_templates/temp-content/tp-youtube.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,15 +149,15 @@
   },
   "active": "411f6f5d955a69a6",
   "lastOpenFiles": [
+    "_templates/temp-content/YouTube.md",
+    "symbolic-math.md",
+    "resources.md",
+    "README.md",
+    "list.md",
     "project-based-learning.md",
     "markdown-it-py.md",
     "inbox.md",
     "github/github.awesome-lists.md",
-    "github/index.github.md",
-    "github/github-antvopilov.md",
-    "github/github.md",
-    "github-antvopilov.md",
-    "blog-test.md",
-    "typescript.md"
+    "github/index.github.md"
   ]
 }

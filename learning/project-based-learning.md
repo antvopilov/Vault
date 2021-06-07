@@ -1,4 +1,4 @@
-categories: [[project]]
+categories: [[code]] [[project]] [[learning]] [[list]]
 
 # Project Based Learning
 
