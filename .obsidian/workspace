@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "dd3a02d1d6a32e09",
+        "id": "411f6f5d955a69a6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "react-native.js.md",
+            "file": "blog-test.md",
             "mode": "source"
           }
         }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "react-native.js.md"
+                "file": "blog-test.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "react-native.js.md",
+                "file": "blog-test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,17 +147,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "dd3a02d1d6a32e09",
+  "active": "411f6f5d955a69a6",
   "lastOpenFiles": [
-    "react-native.js.md",
-    "javascript-frameworks.md",
-    "javascript/react.js.md",
-    "node.js.md",
+    "blog-test.md",
     "typescript.md",
+    "javascript/javascript.md",
     "tree.js.md",
+    "javascript-frameworks.md",
+    "node.js.md",
     "javascript/vue.js.md",
-    "create-react-app.md",
     "javascript/electron.js.md",
-    "javascript/javascript.md"
+    "react-native.js.md",
+    "javascript/react.js.md"
   ]
 }
