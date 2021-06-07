@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "antvopilov/README.md",
+            "file": "Untitled.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "antvopilov/README.md",
+            "file": "Untitled.md",
             "mode": "preview"
           }
         },
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "antvopilov/README.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -120,8 +120,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "649f8ef6121867cf",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "98511bf7b3ba077e",
@@ -134,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "antvopilov/README.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,11 +158,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "ed197f0f3ebdc8a6",
+  "active": "36aca1798e1756c3",
   "lastOpenFiles": [
+    "Untitled.md",
     "antvopilov/README.md",
     "github/Untitled.md",
     "github/github-antvopilov.md",
@@ -161,7 +170,6 @@
     "navigation.md",
     "Untitled 1.md",
     "markdown-it-py.md",
-    "Untitled.md",
     "symbolic-math.md",
     "research-notes/physics-notes/docs/fun0/relativity.md"
   ]
