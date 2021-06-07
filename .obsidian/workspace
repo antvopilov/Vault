@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "software/soft.md",
+            "file": "tex/miktex.md",
             "mode": "source"
           }
         }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "software/soft.md"
+                "file": "tex/miktex.md"
               }
             }
           },
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "software/soft.md",
+                "file": "tex/miktex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,15 +149,15 @@
   },
   "active": "ca4ef53e863d4186",
   "lastOpenFiles": [
+    "tex/miktex.md",
+    "tex/tex.software.md",
+    "tex/latex.md",
+    "+home.md",
+    "tex/tex.md",
+    "code-editors.md",
+    "atom/atom.io.md",
     "software/software.md",
     "software/software.list.md",
-    "tex/tex.md",
-    "python/python.md",
-    "code.md",
-    "javascript/javascript.md",
-    "vuepress.md",
-    "index.md",
-    "resources.md",
-    "research-notes/physics-notes/docs/fun0/math.md"
+    "python/python.md"
   ]
 }

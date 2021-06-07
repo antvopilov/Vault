@@ -1,4 +1,4 @@
-[[+home]] - [[tex]]  - [[tex.packages]]
+[[tex]] - [[tex]]  - [[tex.packages]]
 
 ---
 

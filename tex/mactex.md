@@ -1,4 +1,4 @@
-[[+home]] -  [[tex]] - [[tex.software]] - [[mac]]
+[[tex]] -  [[tex]] - [[tex.software]] - [[mac]]
 
 ---
 
