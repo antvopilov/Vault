@@ -7,8 +7,11 @@
         "id": "411f6f5d955a69a6",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "inbox.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -92,7 +95,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "inbox.md"
+              }
             }
           },
           {
@@ -125,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "inbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,6 +149,7 @@
   },
   "active": "411f6f5d955a69a6",
   "lastOpenFiles": [
+    "inbox.md",
     "_index.md",
     "jupyter-lab/jupyterlab-extensions.md",
     "jupyter-lab/jupyterlab.md",
@@ -151,7 +158,6 @@
     "jupyter-lab/JupyterLab.md",
     "jupyter-lab/Awesome JupyterLab.md",
     "jupyter-book/jupyter-book-showcase.md",
-    "command-line/explain-shell.md",
-    "atom/atom.io.md"
+    "command-line/explain-shell.md"
   ]
 }
