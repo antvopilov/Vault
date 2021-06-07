@@ -1,6 +1,8 @@
+[[jupyterlab]] [[awesome]] 
+
 # Awesome JupyterLab
 
-A curated list of awesome [[JupyterLab]] extensions and resources.
+A curated list of awesome [[jupyterlab]] extensions and resources.
 
 Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 

@@ -1,6 +1,6 @@
 # JupyterLab
 [Documentation](https://jupyterlab.readthedocs.io/en/stable/)
 
-[[JupyterLab Extensions]]
+[[jupyterlab-extensions]]
 
-[[Awesome JupyterLab]]
+[[awesome-jupyterLab]]
