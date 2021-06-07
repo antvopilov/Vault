@@ -6,6 +6,20 @@ aliases: Welcome
 
 [Vault - GitHub Repo](https://github.com/antvopilov/Vault) 
 
+---
+
+https://google.com |
+https://drive.google.com/ |
+https://mail.google.com/ |
+
+[NASA/ADS](https://ui.adsabs.harvard.edu/) |
+[arXiv.org](https://arxiv.org/)|
+[Semantic Scholar](https://www.semanticscholar.org/)
+
+
+
+---
+
 ## Main Topics
 
 [[science]] [[math]] [[physics]] [[cosmology]]

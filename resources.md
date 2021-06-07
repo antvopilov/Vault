@@ -11,12 +11,7 @@
 
 ## Academic Search
 
-[NASA/ADS](https://ui.adsabs.harvard.edu/)
-
-[arXiv.org e-Print archive](https://arxiv.org/)
-
-[Page Not Found | Semantic Scholar](https://www.semanticscholar.org/")
-
+[
 ## Computational Physics
 
 [NumFys - A resource for use of computational physics with **Python**](https://www.numfys.net/)
