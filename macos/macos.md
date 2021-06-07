@@ -1,4 +1,4 @@
-# [[mac|Mac OS]]
+# [[macos|Mac OS]]
 
 ## Productivity
 

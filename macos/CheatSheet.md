@@ -1,4 +1,4 @@
-[[mac]] 
+[[macos]] 
 
 # [[CheatSheet]]
 

@@ -1,3 +1,12 @@
 # [[textmate|TextMate]]
-[[textmate|TextMate]] -
-[[text]] [[editor]] [[soft]] [[mac]]
+
+
+
+[[textmate|TextMate]] - is [[text]] [[editor]] for [[macos]]
+
+
+## Install
+
+```shell
+brew install textmate
+```
