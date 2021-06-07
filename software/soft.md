@@ -1,3 +1,0 @@
-[[soft.list]]
-
-[[editor]]
