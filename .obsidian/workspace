@@ -12,7 +12,20 @@
             "file": "index.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "6a8ba80ca7fe9490"
+      },
+      {
+        "id": "d94fea247e072609",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "index.md",
+            "mode": "preview"
+          }
+        },
+        "group": "6a8ba80ca7fe9490"
       }
     ],
     "direction": "vertical"
@@ -150,6 +163,7 @@
   "active": "558c56c52a36b559",
   "lastOpenFiles": [
     "index.md",
+    "research-notes/physics-notes/docs/fun0/math.md",
     "README.md",
     "Untitled.md",
     "antvopilov/README.md",
@@ -157,7 +171,6 @@
     "github/github-antvopilov.md",
     "navigation.md",
     "Untitled 1.md",
-    "markdown-it-py.md",
-    "symbolic-math.md"
+    "markdown-it-py.md"
   ]
 }
