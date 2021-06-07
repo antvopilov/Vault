@@ -1,8 +1,4 @@
----
-aliases: VuePress
----
-
-[[resources]]  - [[static-site-generators]]
+[[javascript]]
 
 # [[vuepress|VuePress]]
 

@@ -1,4 +1,5 @@
-[[software]]
+[[soft]]
+
 # Software List
 
 ## Table of Contents

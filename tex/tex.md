@@ -1,4 +1,4 @@
-[[+home]] - [[resources/Code/code]]
+[[code]]
 
 ---
 

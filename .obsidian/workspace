@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "vuepress.md",
+            "file": "software/soft.md",
             "mode": "source"
           }
         }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vuepress.md"
+                "file": "software/soft.md"
               }
             }
           },
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vuepress.md",
+                "file": "software/soft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,15 +149,15 @@
   },
   "active": "ca4ef53e863d4186",
   "lastOpenFiles": [
+    "software/software.md",
+    "software/software.list.md",
+    "tex/tex.md",
+    "python/python.md",
+    "code.md",
+    "javascript/javascript.md",
     "vuepress.md",
     "index.md",
     "resources.md",
-    "research-notes/physics-notes/docs/fun0/math.md",
-    "README.md",
-    "Untitled.md",
-    "antvopilov/README.md",
-    "github/Untitled.md",
-    "github/github-antvopilov.md",
-    "navigation.md"
+    "research-notes/physics-notes/docs/fun0/math.md"
   ]
 }
