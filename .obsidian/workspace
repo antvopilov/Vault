@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "resources.md",
+            "file": "editor.md",
             "mode": "source"
           }
         }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resources.md"
+                "file": "editor.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources.md",
+                "file": "editor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,15 +149,15 @@
   },
   "active": "411f6f5d955a69a6",
   "lastOpenFiles": [
+    "editor.md",
+    "javascript/create-react-app.md",
+    "processing/processing.md",
+    "command-line/iterm2.md",
+    "index.md",
     "resources.md",
     "processing.md",
     "list.md",
     "learning/project-based-learning.md",
-    "Untitled.md",
-    "mac/awesome-mac.md",
-    "software/soft.list.md",
-    "mac/mac.md",
-    "pyhon.md",
-    "python/python.md"
+    "Untitled.md"
   ]
 }

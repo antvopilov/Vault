@@ -2,7 +2,7 @@
 aliases: To-Do
 ---
 
-[home](index.md)
+[home](_index.md)
 
 ---
 

@@ -6,5 +6,5 @@ aliases:
 
 # Knowledge Base
 
-[[index]]
+[[_index]]
 

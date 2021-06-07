@@ -2,7 +2,7 @@
 aliases: Welcome
 ---
 
-# [[index|Welcome]]
+# [[_index|Welcome]]
 
 [Vault - GitHub Repo](https://github.com/antvopilov/Vault) 
 
