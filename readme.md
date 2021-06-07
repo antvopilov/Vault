@@ -1,3 +1,10 @@
-# Knowledge Base Vault
 ---
+aliases: 
+- About
+- Knowledge Base
+---
+
+# Knowledge Base
+
+[[index]]
 
