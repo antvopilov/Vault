@@ -1,6 +1,6 @@
-- name: {{title}}
+- title: {{title}}
 - site:
-- type: 
+- categories: [[app]] 
 - os: 
 
 ---

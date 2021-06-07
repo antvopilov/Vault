@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "javascript/vuepress.md",
+            "file": "_templates/tp-blog.md",
             "mode": "source"
           }
         }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "javascript/vuepress.md"
+                "file": "_templates/tp-blog.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "javascript/vuepress.md",
+                "file": "_templates/tp-blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,15 +149,15 @@
   },
   "active": "411f6f5d955a69a6",
   "lastOpenFiles": [
-    "vuepress.md",
-    "text.md",
-    "tex.tutorials.md",
-    "app1.md",
-    "javascript/create-react-app.md",
-    "README.md",
-    "soft.md",
-    "app.md",
-    "software/soft.md",
-    "software/soft.list.md"
+    "_templates/tp-blog.md",
+    "_templates/tp-youtube.md",
+    "_templates/tp-app.md",
+    "_templates/tp-soft.md",
+    "mac/textmate.md",
+    "_templates/WebPage.md",
+    "textmate.md",
+    "todo.md",
+    "code.md",
+    "app.md"
   ]
 }
