@@ -8,13 +8,12 @@ aliases: Welcome
 
 ---
 
-https://google.com |
-https://drive.google.com/ |
-https://mail.google.com/ |
+[Google](https://google.com) - [drive.google.com](https://drive.google.com/) - [mail.google.com](https://mail.google.com/)
 
-[NASA/ADS](https://ui.adsabs.harvard.edu/) |
-[arXiv.org](https://arxiv.org/)|
-[Semantic Scholar](https://www.semanticscholar.org/)
+- [arXiv.org](https://arxiv.org/) - [arxiv-equations](https://arxiv-equations.netlify.app/) 
+- [Semantic Scholar](https://www.semanticscholar.org/)
+- [NASA/ADS](https://ui.adsabs.harvard.edu/) 
+
 
 
 
