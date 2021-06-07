@@ -115,9 +115,17 @@
               "type": "side-panel-control-view",
               "state": {}
             }
+          },
+          {
+            "id": "dc560c8bcf9a049a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       },
       {
         "id": "98511bf7b3ba077e",
@@ -145,8 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "40141bd6ba7aa26e",
   "lastOpenFiles": [
