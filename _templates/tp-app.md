@@ -2,7 +2,7 @@
 - site:
 - categories: [[app]] 
 - os: 
-
+- tags: #app
 ---
 
 # [[{{title}}]]

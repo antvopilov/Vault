@@ -1,8 +1,8 @@
-- blog: {{title}}
+- title: {{title}}
 - author:
 - categories:
 - site:
-
+- tags: #blog
 ---
 
-[[{{title}}]]
+# [[{{title}}]]

@@ -1,5 +1,5 @@
 - Status:
-- Tags:
+- Tags: #book 
 - Title: {{title}}
 - Author: 
 - Reference:

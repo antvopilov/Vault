@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_templates/tp-blog.md",
+            "file": "_index.md",
             "mode": "source"
           }
         }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_templates/tp-blog.md"
+                "file": "_index.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_templates/tp-blog.md",
+                "file": "_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,15 +149,15 @@
   },
   "active": "411f6f5d955a69a6",
   "lastOpenFiles": [
-    "_templates/tp-blog.md",
+    "_index.md",
+    "command-line/explain-shell.md",
+    "atom/atom.io.md",
+    "_templates/Book.md",
+    "_templates/YAML.md",
+    "_templates/MOC.md",
+    "_templates/Paper.md",
     "_templates/tp-youtube.md",
-    "_templates/tp-app.md",
-    "_templates/tp-soft.md",
-    "mac/textmate.md",
-    "_templates/WebPage.md",
-    "textmate.md",
-    "todo.md",
-    "code.md",
-    "app.md"
+    "_templates/tp-blog.md",
+    "_templates/tp-app.md"
   ]
 }

@@ -12,10 +12,9 @@ aliases: Welcome
 
 - [arXiv.org](https://arxiv.org/) - [arxiv-equations](https://arxiv-equations.netlify.app/) 
 - [Semantic Scholar](https://www.semanticscholar.org/)
-- [NASA/ADS](https://ui.adsabs.harvard.edu/) 
+- [NASA/ADS](https://ui.adsabs.harvard.edu/)
 
-
-
+[Site](https://explainshell.com/)
 
 ---
 
