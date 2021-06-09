@@ -2,6 +2,8 @@
 aliases: Reference Management
 ---
 
+[[research]] [[environment]]
+
 # [[reference-management|Reference Management]]
 
 

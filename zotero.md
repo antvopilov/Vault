@@ -3,10 +3,13 @@ title: Zotero
 aliases: Zotero
 ---
 
-[[research-environment-moc]]
+[[research]] - [[environment]]
 
 # [[zotero|Zotero]]
 
-[[zotero-plugins]]
+## [[BetterBibtex]]
+## [[pyzotero]]
+## [[ZotFile]]
+## [[Mdnotes]]
 
 
