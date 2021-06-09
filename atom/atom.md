@@ -1,10 +1,18 @@
-[[index]] - 
-[[code]] -
-[[editor]] - 
-[[application]] 
+---
+aliases: 
+- Atom.io
+---
 
 ---
 
-# [[atom]]
+[[index|Home]] - 
+[[code|Code]] -
+[[editor|Editor]] - 
+[[application|Application]] 
 
-[Atom](https://atom.io/)
+---
+
+# [[atom|Atom.io]]
+
+## About
+- [Atom.io](https://atom.io/)

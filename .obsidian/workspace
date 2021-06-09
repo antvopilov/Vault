@@ -6,7 +6,7 @@
       {
         "id": "d259e0e9bcb4f021",
         "type": "leaf",
-        "dimension": 58.29652996845426,
+        "dimension": 41.13980409617097,
         "state": {
           "type": "markdown",
           "state": {
@@ -19,7 +19,7 @@
       {
         "id": "5d7634c05339e1a4",
         "type": "split",
-        "dimension": 41.70347003154574,
+        "dimension": 58.86019590382902,
         "children": [
           {
             "id": "a03f13dc7a5f9028",
@@ -216,6 +216,8 @@
   },
   "active": "d259e0e9bcb4f021",
   "lastOpenFiles": [
+    "atom/atom.md",
+    "github/github.md",
     "atom/atom.io.md",
     "resources/1st-year-calculus-but-in-python.md",
     "physics/physics.md",
@@ -223,8 +225,6 @@
     "physics/neutrino-notes/neutrino-notes.md",
     "physics/physics-notes/physics-notes.md",
     "index.md",
-    "physics/neutrino-notes/README.md",
-    "physics/physics-notes/README.md",
-    "Untitled.md"
+    "physics/neutrino-notes/README.md"
   ]
 }
