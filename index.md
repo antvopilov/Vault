@@ -8,7 +8,7 @@ aliases: Home
 
 - [[index]]:
 	- [[code]]
-		- [[atom.io]]
+		- [[atom]]
 		- [[github]]
 		- [[javascript]]
 		- [[jupyterlab]]

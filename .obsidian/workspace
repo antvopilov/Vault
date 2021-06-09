@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "physics/neutrino-notes/neutrino-notes.md",
+            "file": "atom/atom.md",
             "mode": "source"
           }
         },
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "physics/neutrino-notes/neutrino-notes.md",
+                "file": "atom/atom.md",
                 "mode": "preview"
               }
             },
@@ -39,7 +39,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "physics/neutrino-notes/neutrino-notes.md",
+                "file": "atom/atom.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -103,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275
+    "width": 284
   },
   "right": {
     "id": "25bcc719c0442731",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "physics/neutrino-notes/neutrino-notes.md"
+                "file": "atom/atom.md"
               }
             }
           },
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "physics/neutrino-notes/neutrino-notes.md",
+                "file": "atom/atom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,15 +216,15 @@
   },
   "active": "d259e0e9bcb4f021",
   "lastOpenFiles": [
-    "physics/neutrino-notes/neutrino-notes.md",
+    "atom/atom.io.md",
+    "resources/1st-year-calculus-but-in-python.md",
     "physics/physics.md",
+    "research/research.md",
+    "physics/neutrino-notes/neutrino-notes.md",
     "physics/physics-notes/physics-notes.md",
     "index.md",
     "physics/neutrino-notes/README.md",
     "physics/physics-notes/README.md",
-    "Untitled.md",
-    "python/python.md",
-    "theoretical-physics/physics-notes/README.md",
-    "code.md"
+    "Untitled.md"
   ]
 }

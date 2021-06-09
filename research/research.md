@@ -11,6 +11,10 @@ aliases:
 
 # [[research|Research]]
 
+## Areas
+- [[physics|Physics]]
+- [[math|Math]]
+
 ## Research Environment
 
 - [[zotero|Zotero]]

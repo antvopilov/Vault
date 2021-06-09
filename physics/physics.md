@@ -11,4 +11,4 @@ aliases:
 
 ## Notes
 - [[physics-notes|Physics Notes]]
-- [[neutrino-notes]]
+- [[neutrino-notes|Neutrino Notes]]
