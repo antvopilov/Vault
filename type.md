@@ -1,6 +1,6 @@
 # [[type|Types]]
 
-[[library|Library]]
+[[library]]
 
 [[book]]
 

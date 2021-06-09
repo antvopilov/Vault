@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "python/python-library-pyzotero.md",
-            "mode": "preview"
+            "file": "atom/atom.md",
+            "mode": "source"
           }
         }
       }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python/python-library-pyzotero.md"
+                "file": "atom/atom.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python/python-library-pyzotero.md",
+                "file": "atom/atom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,19 +153,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 421
+    "width": 148
   },
   "active": "d259e0e9bcb4f021",
   "lastOpenFiles": [
-    "python/python-library-pyzotero.md",
+    "atom/atom.md",
+    "code.md",
+    "index.md",
+    "inbox.md",
     "library.md",
     "type.md",
+    "python/python-library-pyzotero.md",
     "zotero/zotero.md",
     "pyzotero.md",
-    "zotero/ZotFile.md",
-    "zotero-mdnotes.md",
-    "Untitled.md",
-    "github/github.md",
-    "1st-year-calculus-but-in-python.md"
+    "zotero/ZotFile.md"
   ]
 }

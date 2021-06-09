@@ -1,12 +1,8 @@
----
-aliases: InBox
----
-
-[[index]]
+[[index|Home]]
 
 ---
 
-# [[inbox|InBox]]
+# [[inbox]]
 
 [Terminology | Templater](https://silentvoid13.github.io/Templater/docs/terminology)
 

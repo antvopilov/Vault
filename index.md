@@ -17,3 +17,7 @@ aliases: Home
 	- [[research]]
 	- [[learning]]
 	- [[resources]]
+
+---
+
+[[inbox]] 

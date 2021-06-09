@@ -16,3 +16,6 @@ aliases:
 
 ## About
 - [Atom.io](https://atom.io/)
+
+## Plugins
+- [[atom-plugin-zotero]]
