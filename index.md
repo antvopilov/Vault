@@ -6,13 +6,14 @@ aliases: Home
 
 [[bookmarks|BookMarks]]
 
-[[atom.io]]
-
-[[code]]
-
-[[github]]
-
-
-[[research]]
-
-[[learning]]
+- [[index]]:
+	- [[code]]
+		- [[atom.io]]
+		- [[github]]
+		- [[javascript]]
+		- [[jupyterlab]]
+		- [[python]]
+		- [[pycharm]]
+	- [[research]]
+	- [[learning]]
+	- [[resources]]
