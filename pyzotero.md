@@ -1,6 +1,0 @@
----
-aliases: 
-- PyZotero
----
-
-[[python]] [[library]]

@@ -9,7 +9,7 @@ aliases: Zotero
 # [[zotero|Zotero]]
 
 ## [[BetterBibtex]]
-## [[pyzotero]]
+## [[python-library-pyzotero]]
 ## [[zotero-plugin-zotfile|ZotFile]]
 ## [[zotero-plugin-mdnotes|Mdnotes]]
 
