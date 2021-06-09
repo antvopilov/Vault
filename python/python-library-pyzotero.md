@@ -3,6 +3,6 @@ aliases:
 - PyZotero
 ---
 
-[[python|Python]] [[library]] [[zotero|Zotero]]
+[[python]] [[library]] [[zotero]]
 
 # [[python-library-pyzotero|PyZotero]]
