@@ -1,5 +1,5 @@
 site: [Vue.js](https://vuejs.org/)
 
-categories: [[javascript]]
+categories: [[js]]
 
 # [[vue.js]]

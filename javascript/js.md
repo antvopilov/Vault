@@ -1,8 +1,15 @@
-[[code]]
+---
+aliases: 
+- javascript
+- JavaScript
+---
 
-# [[javascript]]
+[[index|Home]] -
+[[code|Code]] 
 
-- [[react.js]]
+# [[js|JavaScript]]
+
+- [[react]]
 - [[react-native.js]]
 - [[create-react-app]]
 - [[electron.js]]

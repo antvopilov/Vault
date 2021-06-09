@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "atom/atom.md",
+            "file": "javascript/react.md",
             "mode": "source"
           }
         },
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "atom/atom.md",
+                "file": "javascript/react.md",
                 "mode": "preview"
               }
             },
@@ -39,7 +39,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "atom/atom.md",
+                "file": "javascript/react.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "atom/atom.md"
+                "file": "javascript/react.md"
               }
             }
           },
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "atom/atom.md",
+                "file": "javascript/react.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,15 +216,15 @@
   },
   "active": "d259e0e9bcb4f021",
   "lastOpenFiles": [
-    "atom/atom.md",
+    "javascript/react.js.md",
+    "javascript/javascript.md",
     "github/github.md",
+    "github/github-antvopilov.md",
+    "github/github-awesome.md",
+    "atom/atom.md",
     "atom/atom.io.md",
     "resources/1st-year-calculus-but-in-python.md",
     "physics/physics.md",
-    "research/research.md",
-    "physics/neutrino-notes/neutrino-notes.md",
-    "physics/physics-notes/physics-notes.md",
-    "index.md",
-    "physics/neutrino-notes/README.md"
+    "research/research.md"
   ]
 }

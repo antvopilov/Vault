@@ -11,5 +11,5 @@ aliases: GitHub
 
 [[github-antvopilov|GitHub: Anton Vopilov]]
 
-[[github-awesome]]
+[[github-awesome|GitHub: Awesome]]
 

@@ -10,7 +10,7 @@ aliases: Home
 	- [[code]]
 		- [[atom]]
 		- [[github]]
-		- [[javascript]]
+		- [[js]]
 		- [[jupyterlab]]
 		- [[python]]
 		- [[pycharm]]

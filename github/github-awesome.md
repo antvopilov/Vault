@@ -7,4 +7,4 @@ aliases: "GitHub: Awesome"
 [[awesome]]
 
 # [[github-awesome|GitHub: Awesome]]
- [GitHub](https://github.com/fffaraz/awesome-github)
+ [Awesome-GitHub](https://github.com/fffaraz/awesome-github)
