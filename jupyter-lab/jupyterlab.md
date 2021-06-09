@@ -1,6 +1,6 @@
-[[index]] -
-[[code]] -
-[[python]] -
+[[index|Home]] -
+[[code|Code]] -
+[[python|Python]] 
 
 
 # JupyterLab
