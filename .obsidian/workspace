@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "github/github.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "github/github.md",
             "mode": "preview"
           }
         },
@@ -58,7 +58,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272
+    "width": 275
   },
   "right": {
     "id": "25bcc719c0442731",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "github/github.md"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "index.md",
+                "file": "github/github.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -166,7 +166,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6884676093894221,
+                  "scale": 0.6753388863052042,
                   "close": true
                 }
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "github/github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,15 +205,15 @@
   },
   "active": "9c77889b18471f29",
   "lastOpenFiles": [
+    "github/github.md",
+    "atom/atom.io.md",
+    "code.md",
     "index.md",
     "bookmarks.md",
     "environment.md",
     "inbox.md",
     "sagemath/sage.md",
     "notes/README.md",
-    "code.md",
-    "learning.md",
-    "learning/project-based-learning.md",
-    "jupyter-lab/jupyterlab-extensions.md"
+    "learning.md"
   ]
 }
