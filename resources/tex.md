@@ -12,8 +12,8 @@ aliases: Tex
 
 ## Tex Environment
 
-- [[miktex]]
-- [[mactex]]
-- [[ctan]] 
+- [[tex-miktex]]
+- [[tex-mactex]]
+- [[tex-package-ctan]] 
 
 

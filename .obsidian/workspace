@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "685c5c01c085f001",
+        "id": "388c498f190da8bd",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "sagemath/sage.md",
+            "file": "resources/vscode.md",
             "mode": "source"
           }
         }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sagemath/sage.md"
+                "file": "resources/vscode.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sagemath/sage.md",
+                "file": "resources/vscode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,17 +156,17 @@
     "width": 148,
     "collapsed": true
   },
-  "active": "685c5c01c085f001",
+  "active": "388c498f190da8bd",
   "lastOpenFiles": [
-    "sagemath/sage.md",
-    "sagemath/SageTutorial_ru.pdf",
-    "physics/physics.md",
-    "mac/mac-bookmarks.md",
-    "mac/mac-awesome.md",
-    "mac/customshortcuts.md",
-    "mac/cheatsheet.md",
-    "atom/atom-plugin-zotero-citations.md",
-    "zotero/zotero-betterbibtex.md",
-    "zotero/zotero.md"
+    "vscode/vscode.md",
+    "tex/tex.md",
+    "tex/ctan.md",
+    "tex/mactex.md",
+    "tex/tex-app-miktex.md",
+    "tex/miktex.md",
+    "tex/tex.tutorials.md",
+    "research/research.md",
+    "javascript/javascript.md",
+    "sagemath/sage.md"
   ]
 }

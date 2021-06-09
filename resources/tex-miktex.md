@@ -2,6 +2,6 @@
 
 ---
 
-# [[miktex]]
+# [[tex-miktex]]
 
 [homepage](https://miktex.org/)
