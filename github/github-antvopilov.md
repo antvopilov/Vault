@@ -1,5 +1,10 @@
+---
+aliases: Anton Vopilov  - GitHub
+---
 
-# [[github-antvopilov]]
+[[github]]
+
+# [[github-antvopilov|Anton Vopilov  - GitHub]]
 
 - [antvopilov](https://github.com/antvopilov/antvopilov)
 - [antvopilov.github.io](https://antvopilov.github.io/)

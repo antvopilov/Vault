@@ -1,7 +1,12 @@
-[[index]] - [[code]]
+---
+aliases: GitHub
+---
+
+[[index]] -
+[[code]]
 
 ---
 
 # [[github|GitHub]]
-- [[github-antvopilov]]
-- [[github.repositories]]
+- [[github-antvopilov|Anton Vopilov  - GitHub]]
+- [[github-awesome]]

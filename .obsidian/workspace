@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "github/github.md",
+            "file": "github/github-awesome.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "github/github.md",
+            "file": "github/github-awesome.md",
             "mode": "preview"
           }
         },
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "github/github.md"
+                "file": "github/github-awesome.md"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "github/github.md",
+                "file": "github/github-awesome.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "github/github.md",
+                "file": "github/github-awesome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,15 +205,15 @@
   },
   "active": "9c77889b18471f29",
   "lastOpenFiles": [
+    "github/github.awesome-lists.md",
     "github/github.md",
+    "github/github-antvopilov.md",
     "atom/atom.io.md",
     "code.md",
     "index.md",
     "bookmarks.md",
     "environment.md",
     "inbox.md",
-    "sagemath/sage.md",
-    "notes/README.md",
-    "learning.md"
+    "sagemath/sage.md"
   ]
 }
