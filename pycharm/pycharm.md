@@ -1,4 +1,4 @@
-[[code]] [[python]] [[editor]]
+[[python]] [[environment]]
 
 # [[pycharm]]
 ## Plugins

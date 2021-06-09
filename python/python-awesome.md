@@ -1,6 +1,6 @@
 [[python]] [[awesome]]
 
-# [[awesome-python-applications]]
+# [[python-awesome]]
 
 
 As developers, we spend our days with code. The site you're reading this on is mostly modules, packages, libraries, frameworks, and the like. But users see applications.

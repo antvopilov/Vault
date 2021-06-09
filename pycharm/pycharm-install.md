@@ -1,4 +1,6 @@
-# PyCharm
+[[pycharm]] [[install]]
+
+# [[pycharm-install]]
 
 ## Official Documentation
 

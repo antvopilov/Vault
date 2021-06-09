@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "python/python-awesome.md",
             "mode": "source"
           }
         }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "python/python-awesome.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "index.md",
+                "file": "python/python-awesome.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "python/python-awesome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,15 +192,15 @@
   },
   "active": "9c77889b18471f29",
   "lastOpenFiles": [
-    "index.md",
-    "inbox.md",
+    "python/awesome-python-applications.md",
     "environment.md",
-    "code.md",
-    "bookmarks.md",
-    "app.md",
-    "mac/textmate.md",
-    "mac/mac-bookmarks.md",
+    "pycharm/pycharm.md",
+    "pycharm/pycharm.setup.md",
+    "processing/processing.md",
+    "mac/cheatsheet.md",
+    "mac/customshortcuts.md",
+    "mac/mac.md",
     "mac/mac-awesome.md",
-    "mac/mac.md"
+    "mac/mac-bookmarks.md"
   ]
 }
