@@ -1,0 +1,1 @@
+[Obsidian Templater Plugin | Templater](https://silentvoid13.github.io/Templater/)

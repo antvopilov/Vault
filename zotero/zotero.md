@@ -8,6 +8,10 @@ aliases: Zotero
 
 # [[zotero|Zotero]]
 
+## About
+
+[plugins [Zotero Documentation]](https://www.zotero.org/support/plugins)
+
 ## [[BetterBibtex]]
 ## [[python-library-pyzotero]]
 ## [[zotero-plugin-zotfile|ZotFile]]
