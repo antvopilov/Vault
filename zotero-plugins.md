@@ -7,3 +7,7 @@ aliases: Zotero Plugins
 ---
 
 # [[zotero-plugins|Zotero Plugins]]
+
+## pyzotero
+## ZotFile
+## Mdnotes

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "research-assistant.md",
+            "file": "zotero-plugins.md",
             "mode": "source"
           }
         }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "research-assistant.md"
+                "file": "zotero-plugins.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "research-assistant.md",
+                "file": "zotero-plugins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,9 +158,9 @@
   },
   "active": "e41cf01c47dfcb88",
   "lastOpenFiles": [
+    "zotero-plugins.md",
     "research-assistant.md",
     "zotero.md",
-    "zotero-plugins.md",
     "research-assistent.md",
     "Untitled.md",
     "docs/inbox.md",

@@ -1,4 +1,4 @@
-# [[research-assistant|Research Assistant]]
+# [[research-environment|Research Environment]]
 
 ## Reference Management
 

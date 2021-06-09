@@ -3,7 +3,7 @@ title: Zotero
 aliases: Zotero
 ---
 
-[[research-assistant]]
+[[research-environment]]
 
 # [[zotero]]
 
