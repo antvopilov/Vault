@@ -8,7 +8,6 @@ aliases:
 # [[bookmarks|BookMarks]]
 
 
----
 ## Tools
 - [Explain Shell](https://explainshell.com/)
 

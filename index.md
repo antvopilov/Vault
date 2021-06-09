@@ -4,7 +4,14 @@ aliases: Home
 
 # [[index|Home]]
 
-![[bookmarks#bookmarks BookMarks]]
+[[bookmarks|BookMarks]]
+
+[[atom.io]]
+
+[[code]]
+
+[[github]]
+
 
 [[research]]
 
