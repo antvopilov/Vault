@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "research/research.md",
-            "mode": "source"
+            "file": "bookmarks.md",
+            "mode": "preview"
           }
         }
       }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "research/research.md"
+                "file": "bookmarks.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "research/research.md",
+                "file": "bookmarks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,15 +157,15 @@
   },
   "active": "8ff78ea46a5b7a78",
   "lastOpenFiles": [
-    "research/research.md",
-    "research/reference-management.md",
-    "sagemath/sage.md",
-    "tex/tex.md",
-    "vscode/readme.md",
-    "vscode/vscode.md",
-    "zotero/zotero.md",
-    "environment.md",
-    "inbox.md",
-    "index.md"
+    "bookmarks.md",
+    "github/github-antvopilov.md",
+    "github/github.md",
+    "atom/atom.io.md",
+    "pycharm/pycharm.md",
+    "python/awesome-python-applications.md",
+    "python/python.md",
+    "python/python-guide.md",
+    "python/python-publishing.md",
+    "python/python.libraries.md"
   ]
 }

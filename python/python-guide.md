@@ -1,3 +1,5 @@
+[[python]] [[guide]]
+
 # python guide
 
 ## references

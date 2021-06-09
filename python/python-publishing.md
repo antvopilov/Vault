@@ -1,5 +1,4 @@
-- area: [python](python.md)
-- type: [collection](collection)
+[[python]]
 
 # python-publishing
 

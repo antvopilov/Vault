@@ -14,11 +14,8 @@ aliases:
 ## Research Environment
 
 - [[zotero|Zotero]]
-- [[tex]]
+- [[tex|Tex]]
 
-### Tutorials
- - [[tex.tutorials]]
- 
 ### YouTube
 
 - [Academic Lesson - YouTube](https://www.youtube.com/channel/UCwM4EI8mqvsSUR7Ou1D0qrA)

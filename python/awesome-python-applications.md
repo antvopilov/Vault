@@ -1,4 +1,4 @@
-[[python]]
+[[python]] [[awesome]]
 
 # [[awesome-python-applications]]
 
