@@ -10,7 +10,9 @@ aliases:
 
 [[bookmarks-online-tools]]
 
-![[bookmarks-google]]
+[[bookmarks-google]]
+
+
 
 
 ## GitHub

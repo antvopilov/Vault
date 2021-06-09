@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "bookmarks-google.md",
+            "file": "type.md",
             "mode": "source"
           }
         }
@@ -54,7 +54,7 @@
       {
         "id": "7db9a0b76d625873",
         "type": "tabs",
-        "dimension": 67.86389413988658,
+        "dimension": 41.11531190926276,
         "children": [
           {
             "id": "250304fc82b98576",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bookmarks-google.md"
+                "file": "type.md"
               }
             }
           },
@@ -130,7 +130,7 @@
       {
         "id": "98511bf7b3ba077e",
         "type": "tabs",
-        "dimension": 32.136105860113425,
+        "dimension": 58.884688090737235,
         "children": [
           {
             "id": "f4a9d1bd8a40b6c6",
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bookmarks-google.md",
+                "file": "type.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,15 +157,15 @@
   },
   "active": "388c498f190da8bd",
   "lastOpenFiles": [
-    "bookmarks-google.md",
-    "bookmarks.md",
-    "bookmarks-online-tools.md",
-    "awesome.md",
-    "resources/electron-awesome.md",
-    "neutrino-notes/neutrino-notes.md",
     "type.md",
-    "_scripts/README.md",
-    "_templates/tp-yaml.md",
-    "resources/python.md"
+    "index.md",
+    "physics-notes.md",
+    "library.md",
+    "inbox.md",
+    "environment.md",
+    "application.md",
+    "google.md",
+    "code.md",
+    "bookmarks.md"
   ]
 }

@@ -3,4 +3,4 @@ aliases:
 - Code
 ---
 
-[[index]]
+[[index|Home]]
