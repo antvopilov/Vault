@@ -1,4 +1,9 @@
-# My Physics Notebook
+---
+aliases:
+- Physics Notes
+---
+
+# [[physics-notes|Physics Notes]]
 
 I have been taking notes on physics for many years. I wanted to build a knowledge base for myself to make sure that I can recreate as many physics as possible. However, things turned out to be much harder than I expected. This becamse a legacy project. I am only maintaining a few special topics, such as statistical physics, at this moment.
 

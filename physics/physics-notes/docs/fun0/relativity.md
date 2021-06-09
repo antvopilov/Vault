@@ -11,5 +11,5 @@ Superluminal Velocity of
 Galaxies](http://math.ucr.edu/home/baez/physics/Relativity/SpeedOfLight/Superluminal/superluminal.html)
 .
 
-![](theoretical-physics/physics-notes/docs/fun0/assets/fun/superluminal.gif){.align-center}
+![](physics/physics-notes/docs/fun0/assets/fun/superluminal.gif){.align-center}
 :::

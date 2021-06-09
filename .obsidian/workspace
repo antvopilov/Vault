@@ -4,12 +4,73 @@
     "type": "split",
     "children": [
       {
-        "id": "27fef6512503edb0",
+        "id": "d259e0e9bcb4f021",
         "type": "leaf",
+        "dimension": 58.29652996845426,
         "state": {
-          "type": "empty",
-          "state": {}
-        }
+          "type": "markdown",
+          "state": {
+            "file": "physics/neutrino-notes/neutrino-notes.md",
+            "mode": "source"
+          }
+        },
+        "group": "6709bdcbb1e39007"
+      },
+      {
+        "id": "5d7634c05339e1a4",
+        "type": "split",
+        "dimension": 41.70347003154574,
+        "children": [
+          {
+            "id": "a03f13dc7a5f9028",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "physics/neutrino-notes/neutrino-notes.md",
+                "mode": "preview"
+              }
+            },
+            "group": "6709bdcbb1e39007"
+          },
+          {
+            "id": "f2ee6348615bfe1f",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "physics/neutrino-notes/neutrino-notes.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "6709bdcbb1e39007"
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -42,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275,
-    "collapsed": true
+    "width": 275
   },
   "right": {
     "id": "25bcc719c0442731",
@@ -93,7 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "physics/neutrino-notes/neutrino-notes.md"
+              }
             }
           },
           {
@@ -134,6 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "physics/neutrino-notes/neutrino-notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,17 +214,17 @@
     "width": 421,
     "collapsed": true
   },
-  "active": "27fef6512503edb0",
+  "active": "d259e0e9bcb4f021",
   "lastOpenFiles": [
+    "physics/neutrino-notes/neutrino-notes.md",
+    "physics/physics.md",
+    "physics/physics-notes/physics-notes.md",
     "index.md",
+    "physics/neutrino-notes/README.md",
+    "physics/physics-notes/README.md",
+    "Untitled.md",
+    "python/python.md",
     "theoretical-physics/physics-notes/README.md",
-    "code.md",
-    "github/github-antvopilov.md",
-    "javascript/awesome-electron.md",
-    "awesome.md",
-    "jupyter-lab/awesome-jupyterLab.md",
-    "github/github-awesome.md",
-    "github/github.md",
-    "atom/atom.io.md"
+    "code.md"
   ]
 }
