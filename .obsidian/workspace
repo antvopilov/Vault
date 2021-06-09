@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zotero-mdnotes.md",
+            "file": "pyzotero.md",
             "mode": "source"
           }
         }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zotero-mdnotes.md"
+                "file": "pyzotero.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zotero-mdnotes.md",
+                "file": "pyzotero.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,15 +158,15 @@
   },
   "active": "d259e0e9bcb4f021",
   "lastOpenFiles": [
-    "zotero-mdnotes.md",
+    "pyzotero.md",
     "zotero/zotero.md",
+    "zotero/ZotFile.md",
+    "zotero-mdnotes.md",
     "Untitled.md",
     "github/github.md",
     "1st-year-calculus-but-in-python.md",
     "application.md",
     "environment.md",
-    "awesome.md",
-    "bookmarks.md",
-    "physics/physics-notes/docs/fun0/relativity.md"
+    "awesome.md"
   ]
 }

@@ -5,12 +5,13 @@ aliases: Zotero
 
 [[research]] - [[environment]]
 
+
 # [[zotero|Zotero]]
 
 ## [[BetterBibtex]]
 ## [[pyzotero]]
-## [[ZotFile]]
-## [[zotero-mdnotes]]
+## [[zotero-plugin-zotfile|ZotFile]]
+## [[zotero-plugin-mdnotes|Mdnotes]]
 
 
 
