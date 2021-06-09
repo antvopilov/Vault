@@ -6,9 +6,9 @@ aliases: CheatSheet
 [[environment]]
 
 
-# [[cheatsheet|CheatSheet]]
+# [[mac-app-cheatsheet|CheatSheet]]
 
 [CheatSheet - Know your short cuts](https://www.mediaatelier.com/CheatSheet/)
 
 
-Work with [[customshortcuts]]
+Work with [[mac-app-customshortcuts]]
