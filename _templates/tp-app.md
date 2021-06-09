@@ -1,6 +1,6 @@
 - title: {{title}}
 - site:
-- categories: [[app]] 
+- categories: [[application]] 
 - os: 
 - tags: #app
 ---

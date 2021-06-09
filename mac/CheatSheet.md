@@ -2,7 +2,8 @@
 aliases: CheatSheet
 ---
 
-[[mac]] 
+[[mac]] - 
+[[environment]]
 
 
 # [[cheatsheet|CheatSheet]]

@@ -9,23 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "mac/customshortcuts.md",
+            "file": "index.md",
             "mode": "source"
           }
-        },
-        "group": "f818f92f997b968f"
-      },
-      {
-        "id": "4837080394ba98e0",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "mac/customshortcuts.md",
-            "mode": "preview"
-          }
-        },
-        "group": "f818f92f997b968f"
+        }
       }
     ],
     "direction": "vertical"
@@ -109,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mac/customshortcuts.md"
+                "file": "index.md"
               }
             }
           },
@@ -143,7 +130,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "mac/customshortcuts.md",
+                "file": "index.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -186,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mac/customshortcuts.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,15 +192,15 @@
   },
   "active": "9c77889b18471f29",
   "lastOpenFiles": [
-    "mac/CustomShortcuts.md",
-    "mac/CheatSheet.md",
+    "index.md",
+    "inbox.md",
+    "environment.md",
+    "code.md",
+    "bookmarks.md",
+    "app.md",
     "mac/textmate.md",
-    "mac/awesome-mac.md",
-    "mac/mac-soft.md",
-    "mac/mac.md",
-    "learning/learning.md",
-    "learning/project-based-learning.md",
-    "jupyter-lab/jupyterlab-extensions.md",
-    "jupyter-lab/awesome-jupyterLab.md"
+    "mac/mac-bookmarks.md",
+    "mac/mac-awesome.md",
+    "mac/mac.md"
   ]
 }

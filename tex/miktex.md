@@ -1,4 +1,4 @@
-[[tex]] [[app]]
+[[tex]] [[application]]
 
 ---
 

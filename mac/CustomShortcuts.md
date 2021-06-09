@@ -9,4 +9,4 @@ aliases: CustomShortcuts
 
 https://www.houdah.com/customShortcuts/
 
-Work with [[cheatsheet]]
+Work with [[cheatsheet|CheatSheet]]
