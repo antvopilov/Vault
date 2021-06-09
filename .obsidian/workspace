@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "resources/python.md",
+            "file": "neutrino-notes/neutrino-notes.md",
             "mode": "source"
           }
         }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resources/python.md"
+                "file": "neutrino-notes/neutrino-notes.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources/python.md",
+                "file": "neutrino-notes/neutrino-notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,15 +158,15 @@
   },
   "active": "388c498f190da8bd",
   "lastOpenFiles": [
+    "neutrino-notes/neutrino-notes.md",
+    "type.md",
+    "_scripts/README.md",
+    "_templates/tp-yaml.md",
     "resources/python.md",
     "resources/tree.md",
     "resources/1st-year-calculus-but-in-python.md",
     "atom-plugin.md",
     "index.md",
-    "bookmarks.md",
-    "awesome.md",
-    "application.md",
-    "1st-year-calculus-but-in-python.md",
-    "zotero/zotero.md"
+    "bookmarks.md"
   ]
 }
