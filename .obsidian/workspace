@@ -9,8 +9,20 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "inbox.md",
+            "file": "bookmarks.md",
             "mode": "source"
+          }
+        },
+        "group": "f69ac9e540aee8ae"
+      },
+      {
+        "id": "ceb4eb0119e1ceac",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "bookmarks.md",
+            "mode": "preview"
           }
         },
         "group": "f69ac9e540aee8ae"
@@ -21,7 +33,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "inbox.md",
+            "file": "bookmarks.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -133,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox.md"
+                "file": "bookmarks.md"
               }
             }
           },
@@ -175,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox.md",
+                "file": "bookmarks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,15 +207,15 @@
   },
   "active": "ff41f2f61afc79ec",
   "lastOpenFiles": [
-    "inbox.md",
     "bookmarks.md",
-    "research/reference-management.md",
-    "zotero/zotero.md",
-    "research/research.md",
     "index.md",
-    "quick-links.md",
     "README.md",
-    "reference-management.md",
-    "research.md"
+    "map.md",
+    "inbox.md",
+    "1st-year-calculus-but-in-python.md",
+    "zotero/zotero.md",
+    "research/reference-management.md",
+    "research/research.md",
+    "quick-links.md"
   ]
 }
