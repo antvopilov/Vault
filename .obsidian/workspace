@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "bookmarks.md",
+            "file": "1st-year-calculus-but-in-python.md",
             "mode": "source"
           }
         },
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bookmarks.md",
+                "file": "1st-year-calculus-but-in-python.md",
                 "mode": "source"
               }
             },
@@ -39,7 +39,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "bookmarks.md",
+                "file": "1st-year-calculus-but-in-python.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bookmarks.md"
+                "file": "1st-year-calculus-but-in-python.md"
               }
             }
           },
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bookmarks.md",
+                "file": "1st-year-calculus-but-in-python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,15 +216,15 @@
   },
   "active": "d259e0e9bcb4f021",
   "lastOpenFiles": [
-    "bookmarks.md",
-    "awesome.md",
-    "application.md",
     "1st-year-calculus-but-in-python.md",
+    "application.md",
+    "environment.md",
+    "awesome.md",
+    "bookmarks.md",
     "physics/physics-notes/docs/fun0/relativity.md",
     "_templates/tp-yaml.md",
     "_templates/tp-youtube.md",
     "_templates/tp-blog.md",
-    "_templates/tp-book.md",
-    "_templates/tp-app.md"
+    "_templates/tp-book.md"
   ]
 }
