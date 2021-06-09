@@ -9,6 +9,8 @@ aliases: Home
 - [[index]]:
 	- [[code]]
 		- [[atom]]
+			- [[atom-plugin]]
+			- [[atom-plugin-zotero-citations]]
 		- [[github]]
 		- [[javascript]]
 		- [[jupyterlab]]

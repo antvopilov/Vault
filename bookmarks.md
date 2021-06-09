@@ -3,7 +3,7 @@ aliases:
 - BookMarks
 ---
 
-[[index]]
+[[index|Home]]
 
 # [[bookmarks|BookMarks]]
 

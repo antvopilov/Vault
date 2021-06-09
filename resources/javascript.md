@@ -14,6 +14,6 @@ aliases:
 - [[create-react-app]]
 - [[electron]]
 - [[vue]]
-- [[tree]]
+- [[code-js-tree]]
 - [[typescript]]
 - [[node]]>)

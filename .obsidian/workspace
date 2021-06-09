@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "resources/vscode.md",
+            "file": "resources/python.md",
             "mode": "source"
           }
         }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resources/vscode.md"
+                "file": "resources/python.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources/vscode.md",
+                "file": "resources/python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,15 +158,15 @@
   },
   "active": "388c498f190da8bd",
   "lastOpenFiles": [
-    "vscode/vscode.md",
-    "tex/tex.md",
-    "tex/ctan.md",
-    "tex/mactex.md",
-    "tex/tex-app-miktex.md",
-    "tex/miktex.md",
-    "tex/tex.tutorials.md",
-    "research/research.md",
-    "javascript/javascript.md",
-    "sagemath/sage.md"
+    "resources/python.md",
+    "resources/tree.md",
+    "resources/1st-year-calculus-but-in-python.md",
+    "atom-plugin.md",
+    "index.md",
+    "bookmarks.md",
+    "awesome.md",
+    "application.md",
+    "1st-year-calculus-but-in-python.md",
+    "zotero/zotero.md"
   ]
 }
