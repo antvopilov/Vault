@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "reference-management.md",
+            "file": "README.md",
             "mode": "source"
           }
         },
@@ -27,7 +27,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "reference-management.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -50,7 +50,7 @@
                   "repelStrength": 11.1725427350427,
                   "linkStrength": 1,
                   "linkDistance": 315,
-                  "scale": 0.8460468635217475,
+                  "scale": 0.5977778118881057,
                   "close": true
                 }
               }
@@ -63,8 +63,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reference-management.md",
-                "mode": "preview"
+                "file": "README.md",
+                "mode": "source"
               }
             },
             "group": "311cf0566ce6b81b"
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reference-management.md"
+                "file": "README.md"
               }
             }
           },
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reference-management.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,15 +216,15 @@
   },
   "active": "6fb1966a73de0791",
   "lastOpenFiles": [
+    "README.md",
     "reference-management.md",
-    "research-environment-moc.md",
-    "zotero.md",
     "research.md",
+    "ZotFile.md",
+    "zotero.md",
+    "index.md",
     "academic-environment.md",
+    "research-environment-moc.md",
     "zotero-plugins.md",
-    "research-environment.md",
-    "Untitled.md",
-    "science/academic-environment.md",
-    "tex/tex.tutorials.md"
+    "research-environment.md"
   ]
 }
