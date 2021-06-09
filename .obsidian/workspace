@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "science/academic-environment.md",
+            "file": "research.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "science/academic-environment.md",
+            "file": "research.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "science/academic-environment.md"
+                "file": "research.md"
               }
             }
           },
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "science/academic-environment.md",
+                "file": "research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,15 +195,15 @@
   },
   "active": "6fb1966a73de0791",
   "lastOpenFiles": [
-    "science/academic-environment.md",
+    "science.md",
     "index.md",
-    "Untitled.md",
     "research.md",
+    "science/academic-environment.md",
+    "Untitled.md",
     "map.md",
     "docs/inbox.md",
     "docs/theoretical-physics/physics-notes/docs/fun0/index.md",
     "zotero.md",
-    "research-environment.md",
-    "Reference Management.md"
+    "research-environment.md"
   ]
 }

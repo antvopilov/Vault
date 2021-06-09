@@ -1,3 +1,5 @@
+[[research]] - [[environment]]
+
 # [[academic-environment]]
 
 [SageMath - Open-Source Mathematical Software System](https://www.sagemath.org/)

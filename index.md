@@ -5,4 +5,4 @@ aliases: Home
 # [[index|Home]]
 
 
-[[science]]
+[[research]]
