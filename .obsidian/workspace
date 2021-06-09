@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "bookmarks.md",
+            "file": "sagemath/sage.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "bookmarks.md",
+            "file": "sagemath/sage.md",
             "mode": "preview"
           }
         },
@@ -33,7 +33,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "bookmarks.md",
+            "file": "sagemath/sage.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bookmarks.md"
+                "file": "sagemath/sage.md"
               }
             }
           },
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bookmarks.md",
+                "file": "sagemath/sage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,15 +207,15 @@
   },
   "active": "ff41f2f61afc79ec",
   "lastOpenFiles": [
+    "sagemath/sage.md",
+    "sagemath/sage.resources.md",
+    "sagemath/sage.install.md",
     "bookmarks.md",
     "index.md",
     "README.md",
     "map.md",
     "inbox.md",
     "1st-year-calculus-but-in-python.md",
-    "zotero/zotero.md",
-    "research/reference-management.md",
-    "research/research.md",
-    "quick-links.md"
+    "zotero/zotero.md"
   ]
 }

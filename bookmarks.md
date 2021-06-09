@@ -7,24 +7,31 @@ aliases:
 
 # [[bookmarks|BookMarks]]
 
-[Vault - GitHub](https://github.com/antvopilov/Vault)
 
 ---
+## Tools
+- [Explain Shell](https://explainshell.com/)
+
 
 ## Google
 - [Google](https://google.com)
 - [Google-Drive](https://drive.google.com/) 
-- - [GMail](https://mail.google.com/)
-- [arXiv.org](https://arxiv.org/) - [arxiv-equations](https://arxiv-equations.netlify.app/)
-- [Semantic Scholar](https://www.semanticscholar.org/)
+- [Gmail](https://mail.google.com/)
+
+## GitHub
+- [Vault - GitHub](https://github.com/antvopilov/Vault)
+
+## Research
+- [ArXiv.org](https://arxiv.org/) 
+- [Arxiv-Equations](https://arxiv-equations.netlify.app/)
+- [Semantic-Scholar](https://www.semanticscholar.org/)
 - [NASA/ADS](https://ui.adsabs.harvard.edu/)
 
-[explainshell](https://explainshell.com/)
 
 ---
 
 
-[SageMath - Open-Source Mathematical Software System](https://www.sagemath.org/)
+[[sage]]
 
 [LaTeX Templates](http://www.latextemplates.com/)
 
