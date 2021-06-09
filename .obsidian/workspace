@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "mac/CheatSheet.md",
+            "file": "mac/customshortcuts.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "mac/CheatSheet.md",
+            "file": "mac/customshortcuts.md",
             "mode": "preview"
           }
         },
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mac/CheatSheet.md"
+                "file": "mac/customshortcuts.md"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "mac/CheatSheet.md",
+                "file": "mac/customshortcuts.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mac/CheatSheet.md",
+                "file": "mac/customshortcuts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,15 +205,15 @@
   },
   "active": "9c77889b18471f29",
   "lastOpenFiles": [
-    "mac/CheatSheet.md",
     "mac/CustomShortcuts.md",
+    "mac/CheatSheet.md",
+    "mac/textmate.md",
     "mac/awesome-mac.md",
+    "mac/mac-soft.md",
+    "mac/mac.md",
     "learning/learning.md",
     "learning/project-based-learning.md",
     "jupyter-lab/jupyterlab-extensions.md",
-    "jupyter-lab/awesome-jupyterLab.md",
-    "jupyter-lab/jupyterlab.md",
-    "javascript/javascript.md",
-    "github/github.md"
+    "jupyter-lab/awesome-jupyterLab.md"
   ]
 }

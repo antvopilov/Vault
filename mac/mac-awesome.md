@@ -1,5 +1,5 @@
 [[awesome]] [[mac]] 
-# [[awesome-mac]]
+# [[mac-awesome]]
 
 ## Contents
 

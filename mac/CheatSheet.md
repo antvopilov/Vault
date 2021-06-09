@@ -1,8 +1,13 @@
+---
+aliases: CheatSheet
+---
+
 [[mac]] 
 
-# [[CheatSheet]]
 
-https://www.mediaatelier.com/CheatSheet/
+# [[cheatsheet|CheatSheet]]
+
+[CheatSheet - Know your short cuts](https://www.mediaatelier.com/CheatSheet/)
 
 
-Work with [[CustomShortcuts]]
+Work with [[customshortcuts]]

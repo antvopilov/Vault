@@ -1,7 +1,12 @@
-categories: [[mac]], [[productivity]], [[cheat-sheet]], [[shortcuts]]
+---
+aliases: CustomShortcuts
+---
 
-# [[CustomShortcuts]]
+[[mac]] -
+[[environment]]
+
+# [[customshortcuts|CustomShortcuts]]
 
 https://www.houdah.com/customShortcuts/
 
-Work with [[CheatSheet]]
+Work with [[cheatsheet]]

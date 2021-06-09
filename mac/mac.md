@@ -2,4 +2,4 @@
 
 ## Productivity
 
-- [[CheatSheet]]
+- [[cheatsheet]]
