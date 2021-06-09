@@ -6,62 +6,71 @@
       {
         "id": "ff41f2f61afc79ec",
         "type": "leaf",
+        "dimension": 58.11827956989247,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "sagemath/sage.md",
+            "file": "computer-algebra.md",
             "mode": "source"
           }
         },
         "group": "f69ac9e540aee8ae"
       },
       {
-        "id": "ceb4eb0119e1ceac",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "sagemath/sage.md",
-            "mode": "preview"
+        "id": "7b9ad6a76a5cf933",
+        "type": "split",
+        "dimension": 41.88172043010753,
+        "children": [
+          {
+            "id": "ceb4eb0119e1ceac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "computer-algebra.md",
+                "mode": "source"
+              }
+            },
+            "group": "f69ac9e540aee8ae"
+          },
+          {
+            "id": "c816341d9939e784",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "computer-algebra.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "f69ac9e540aee8ae"
           }
-        },
-        "group": "f69ac9e540aee8ae"
-      },
-      {
-        "id": "c816341d9939e784",
-        "type": "leaf",
-        "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "sagemath/sage.md",
-            "options": {
-              "collapse-filter": true,
-              "search": "",
-              "localJumps": 1,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": true,
-              "colorGroups": [],
-              "collapse-display": true,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": true,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 1,
-              "close": false
-            }
-          }
-        },
-        "group": "f69ac9e540aee8ae"
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -145,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sagemath/sage.md"
+                "file": "computer-algebra.md"
               }
             }
           },
@@ -187,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sagemath/sage.md",
+                "file": "computer-algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,17 +214,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ff41f2f61afc79ec",
+  "active": "c816341d9939e784",
   "lastOpenFiles": [
-    "sagemath/sage.md",
+    "computer-algebra.md",
+    "1st-year-calculus-but-in-python.md",
+    "bookmarks.md",
     "environment.md",
-    "research/research.md",
-    "index.md",
+    "sage.install.md",
+    "sagemath/sage.md",
     "sagemath/sage.resources.md",
     "sagemath/sage.install.md",
-    "bookmarks.md",
-    "README.md",
-    "map.md",
-    "inbox.md"
+    "research/research.md",
+    "index.md"
   ]
 }
