@@ -7,7 +7,15 @@ aliases: Zotero Plugins
 ---
 
 # [[zotero-plugins|Zotero Plugins]]
+**Table of Contents**
 
-## pyzotero
-## ZotFile
-## Mdnotes
+- [[#betterbibtex|betterbibtex]]
+- [[#pyzotero|pyzotero]]
+- [[#ZotFile|ZotFile]]
+- [[#Mdnotes|Mdnotes]]
+
+
+## [[BetterBibtex]]
+## [[pyzotero]]
+## [[ZotFile]]
+## [[Mdnotes]]

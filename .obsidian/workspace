@@ -12,7 +12,44 @@
             "file": "zotero-plugins.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "e2f42edd1939eb3f"
+      },
+      {
+        "id": "a854c9fb4f5b608d",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "zotero-plugins.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1,
+              "close": false
+            }
+          }
+        },
+        "group": "e2f42edd1939eb3f"
       }
     ],
     "direction": "vertical"
@@ -159,12 +196,12 @@
   "active": "e41cf01c47dfcb88",
   "lastOpenFiles": [
     "zotero-plugins.md",
+    "README.md",
     "research-assistant.md",
     "zotero.md",
     "research-assistent.md",
     "Untitled.md",
     "docs/inbox.md",
-    "README.md",
     "map.md",
     "_scripts/README.md",
     "docs/notes/about.md"
