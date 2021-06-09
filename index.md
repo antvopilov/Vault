@@ -7,3 +7,5 @@ aliases: Home
 ![[bookmarks#bookmarks BookMarks]]
 
 [[research]]
+
+[[learning]]

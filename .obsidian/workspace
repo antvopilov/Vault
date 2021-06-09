@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "jupyter-lab/awesome-jupyterLab.md",
-            "mode": "source"
+            "file": "bookmarks.md",
+            "mode": "preview"
           }
         }
       }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "jupyter-lab/awesome-jupyterLab.md"
+                "file": "bookmarks.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "jupyter-lab/awesome-jupyterLab.md",
+                "file": "bookmarks.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "jupyter-lab/awesome-jupyterLab.md",
+                "file": "bookmarks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,15 +192,15 @@
   },
   "active": "9c77889b18471f29",
   "lastOpenFiles": [
-    "jupyter-lab/awesome-jupyterLab.md",
-    "javascript/vuepress.md",
-    "javascript/vue.js.md",
-    "javascript/typescript.md",
-    "javascript/tree.js.md",
-    "javascript/react.js.md",
-    "javascript/react-native.js.md",
-    "javascript/node.js.md",
-    "javascript/javascript.md",
-    "javascript/handlebars.js.md"
+    "bookmarks.md",
+    "index.md",
+    "inbox.md",
+    "environment.md",
+    "sagemath/sage.md",
+    "notes/README.md",
+    "code.md",
+    "learning.md",
+    "learning/project-based-learning.md",
+    "jupyter-lab/jupyterlab-extensions.md"
   ]
 }

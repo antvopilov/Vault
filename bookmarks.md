@@ -34,7 +34,6 @@ aliases:
 ---
 
 
-[[sage]]
 
 [LaTeX Templates](http://www.latextemplates.com/)
 
