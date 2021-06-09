@@ -4,73 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "6fb1966a73de0791",
+        "id": "ff41f2f61afc79ec",
         "type": "leaf",
-        "dimension": 57.367758186397985,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "inbox.md",
             "mode": "source"
           }
         },
-        "group": "311cf0566ce6b81b"
+        "group": "f69ac9e540aee8ae"
       },
       {
-        "id": "2d9c5674128e7fdd",
-        "type": "split",
-        "dimension": 42.632241813602015,
-        "children": [
-          {
-            "id": "6a9d704d44ba8513",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "README.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": true,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": true,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1.75558226495727,
-                  "lineSizeMultiplier": 1.68883547008547,
-                  "collapse-forces": false,
-                  "centerStrength": 0.277377136752137,
-                  "repelStrength": 11.1725427350427,
-                  "linkStrength": 1,
-                  "linkDistance": 315,
-                  "scale": 0.5977778118881057,
-                  "close": true
-                }
-              }
-            },
-            "group": "311cf0566ce6b81b"
-          },
-          {
-            "id": "2946ae8555b28485",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source"
-              }
-            },
-            "group": "311cf0566ce6b81b"
+        "id": "c816341d9939e784",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "inbox.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1,
+              "close": false
+            }
           }
-        ],
-        "direction": "horizontal"
+        },
+        "group": "f69ac9e540aee8ae"
       }
     ],
     "direction": "vertical"
@@ -154,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "inbox.md"
               }
             }
           },
@@ -196,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "inbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,17 +193,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6fb1966a73de0791",
+  "active": "ff41f2f61afc79ec",
   "lastOpenFiles": [
+    "inbox.md",
+    "bookmarks.md",
+    "research/reference-management.md",
+    "zotero/zotero.md",
+    "research/research.md",
+    "index.md",
+    "quick-links.md",
     "README.md",
     "reference-management.md",
-    "research.md",
-    "ZotFile.md",
-    "zotero.md",
-    "index.md",
-    "academic-environment.md",
-    "research-environment-moc.md",
-    "zotero-plugins.md",
-    "research-environment.md"
+    "research.md"
   ]
 }

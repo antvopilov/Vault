@@ -2,7 +2,11 @@
 aliases: InBox
 ---
 
-# [InBox](inbox.md)
+[[index]]
+
+---
+
+# [[inbox|InBox]]
 
 [Terminology | Templater](https://silentvoid13.github.io/Templater/docs/terminology)
 
