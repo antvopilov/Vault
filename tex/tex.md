@@ -1,8 +1,14 @@
-[[code]]
+---
+aliases: Tex
+---
+
+[[code]] - 
+[[research]] -
+[[environment]] -
 
 ---
 
-# [[tex|Tex Map]]
+# [[tex|Tex]]
 
 ## Tex Environment
 

@@ -4,28 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ff41f2f61afc79ec",
+        "id": "8ff78ea46a5b7a78",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "research/research.md",
-            "mode": "source"
-          }
-        },
-        "group": "0919c177786b2d54"
-      },
-      {
-        "id": "556671a245b050ed",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "research/research.md",
-            "mode": "preview"
-          }
-        },
-        "group": "0919c177786b2d54"
+          "type": "graph",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -108,9 +92,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "research/research.md"
-              }
+              "state": {}
             }
           },
           {
@@ -151,7 +133,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "research/research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,17 +149,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ff41f2f61afc79ec",
+  "active": "8ff78ea46a5b7a78",
   "lastOpenFiles": [
+    "code.md",
+    "tex/tex.md",
     "research/research.md",
+    "zotero/zotero.md",
     "index.md",
     "sagemath/sage.md",
     "computer-algebra.md",
     "1st-year-calculus-but-in-python.md",
     "bookmarks.md",
-    "environment.md",
-    "sage.install.md",
-    "sagemath/sage.resources.md",
-    "sagemath/sage.install.md"
+    "environment.md"
   ]
 }

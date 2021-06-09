@@ -11,7 +11,10 @@ aliases:
 
 # [[research|Research]]
 
-## Resources
+## Research Environment
+
+- [[zotero|Zotero]]
+- [[tex]]
 
 ### Tutorials
  - [[tex.tutorials]]
