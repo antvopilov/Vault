@@ -1,7 +1,12 @@
 
-[[index]]
+---
+aliases:
+- Sage
+- SageMath
+- sagemath
+---
 
-[[research]] - [[math]] - [[physics]] - [[science.software]]
+[[index|Home]] - [[research|Research]] - [[environment|Environment]] 
 
 ---
 
