@@ -2,10 +2,12 @@
 aliases: GitHub
 ---
 
-[[index]] - [[code]]
+[[index|Home]] -
+[[code|Code]] 
 
 ---
 
 # [[github|GitHub]]
-- [[github-antvopilov|Anton Vopilov  - GitHub]]
+
+[[github-antvopilov|Anton Vopilov]]
 - [[github-awesome]]

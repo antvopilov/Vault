@@ -1,11 +1,13 @@
 ---
-aliases: Anton Vopilov  - GitHub
+aliases: Anton Vopilov
 ---
 
-[[github]]
+[[index|Home]] -
+[[code|Code]] -
+[[github|GitHub]]
 
-# [[github-antvopilov|Anton Vopilov  - GitHub]]
+# [[github-antvopilov|Anton Vopilov]]
 
-- [antvopilov](https://github.com/antvopilov/antvopilov)
-- [antvopilov.github.io](https://antvopilov.github.io/)
-- [antvopilov/antvopilov.github.io](https://github.com/antvopilov/antvopilov.github.io)
+- [portfolio](https://github.com/antvopilov/antvopilov)
+- [website](https://antvopilov.github.io/)
+- [website-repository](https://github.com/antvopilov/antvopilov.github.io)
