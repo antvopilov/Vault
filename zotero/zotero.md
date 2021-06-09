@@ -12,10 +12,10 @@ aliases: Zotero
 
 [plugins [Zotero Documentation]](https://www.zotero.org/support/plugins)
 
-## [[BetterBibtex]]
+## [[zotero-betterbibtex]]
 ## [[python-library-pyzotero]]
-## [[zotero-plugin-zotfile|ZotFile]]
-## [[zotero-plugin-mdnotes|Mdnotes]]
+## [[zotero-zotfile|ZotFile]]
+## [[zotero-mdnotes|Mdnotes]]
 
 
 

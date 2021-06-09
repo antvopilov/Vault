@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zotero/zotero.md",
+            "file": "zotero/zotero-betterbibtex.md",
             "mode": "source"
           }
         }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zotero/zotero.md"
+                "file": "zotero/zotero-betterbibtex.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zotero/zotero.md",
+                "file": "zotero/zotero-betterbibtex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,15 +157,15 @@
   },
   "active": "d259e0e9bcb4f021",
   "lastOpenFiles": [
+    "zotero/zotero-betterbibtex.md",
     "zotero/zotero.md",
+    "zotero/zotero-mdnotes.md",
+    "zotero/zotero-scihub.md",
+    "zotero/zotero-plugin-zotfile.md",
+    "zotero/zotero-plugin-scihub.md",
+    "zotero/zotero-plugin-mdnotes.md",
+    "BetterBibtex.md",
     "Untitled.md",
-    "obsidian/obsidian-plugins.md",
-    "atom-plugin-zotero-citations.md",
-    "atom/atom.md",
-    "code.md",
-    "index.md",
-    "inbox.md",
-    "library.md",
-    "type.md"
+    "obsidian/obsidian-plugins.md"
   ]
 }
