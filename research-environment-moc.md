@@ -1,11 +1,8 @@
-# [[research-environment|Research Environment]]
+# [[research-environment-moc|Research Environment MOC]]
 
 ## [[reference-management]]
 
 [[research]]
-
-- [[zotero|Zotero]]
-	- [[zotero-plugins]]
 
 
 

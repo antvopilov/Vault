@@ -9,47 +9,66 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "research-environment.md",
+            "file": "zotero-plugins.md",
             "mode": "source"
           }
         },
         "group": "311cf0566ce6b81b"
       },
       {
-        "id": "6a9d704d44ba8513",
-        "type": "leaf",
-        "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "research-environment.md",
-            "options": {
-              "collapse-filter": true,
-              "search": "",
-              "localJumps": 1,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": true,
-              "colorGroups": [],
-              "collapse-display": true,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": true,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 1,
-              "close": false
-            }
+        "id": "7d879430654e203f",
+        "type": "split",
+        "children": [
+          {
+            "id": "2946ae8555b28485",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zotero-plugins.md",
+                "mode": "preview"
+              }
+            },
+            "group": "311cf0566ce6b81b"
+          },
+          {
+            "id": "6a9d704d44ba8513",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "zotero-plugins.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "311cf0566ce6b81b"
           }
-        },
-        "group": "311cf0566ce6b81b"
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -82,7 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225
+    "width": 272
   },
   "right": {
     "id": "25bcc719c0442731",
@@ -133,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "research-environment.md"
+                "file": "zotero-plugins.md"
               }
             }
           },
@@ -175,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "research-environment.md",
+                "file": "zotero-plugins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,15 +214,15 @@
   },
   "active": "6fb1966a73de0791",
   "lastOpenFiles": [
-    "research-environment.md",
     "zotero-plugins.md",
+    "zotero.md",
+    "reference-management.md",
+    "research-environment-moc.md",
+    "research.md",
+    "research-environment.md",
     "Untitled.md",
     "academic-environment.md",
     "science/academic-environment.md",
-    "research.md",
-    "tex/tex.tutorials.md",
-    "science.md",
-    "index.md",
-    "map.md"
+    "tex/tex.tutorials.md"
   ]
 }

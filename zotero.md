@@ -3,9 +3,10 @@ title: Zotero
 aliases: Zotero
 ---
 
-[[research-environment]]
+[[research-environment-moc]]
 
-# [[zotero]]
+# [[zotero|Zotero]]
 
+[[zotero-plugins]]
 
 
