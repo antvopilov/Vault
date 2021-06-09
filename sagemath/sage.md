@@ -6,7 +6,9 @@ aliases:
 - sagemath
 ---
 
-[[research|Research]] - [[environment|Environment]] 
+[[code]] -
+[[research]] -
+[[environment]] -
 
 ---
 

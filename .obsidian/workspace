@@ -7,8 +7,11 @@
         "id": "8ff78ea46a5b7a78",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "research/research.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -92,7 +95,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "research/research.md"
+              }
             }
           },
           {
@@ -133,6 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "research/research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,15 +157,15 @@
   },
   "active": "8ff78ea46a5b7a78",
   "lastOpenFiles": [
-    "code.md",
-    "tex/tex.md",
     "research/research.md",
-    "zotero/zotero.md",
-    "index.md",
+    "research/reference-management.md",
     "sagemath/sage.md",
-    "computer-algebra.md",
-    "1st-year-calculus-but-in-python.md",
-    "bookmarks.md",
-    "environment.md"
+    "tex/tex.md",
+    "vscode/readme.md",
+    "vscode/vscode.md",
+    "zotero/zotero.md",
+    "environment.md",
+    "inbox.md",
+    "index.md"
   ]
 }
