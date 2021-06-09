@@ -6,71 +6,26 @@
       {
         "id": "ff41f2f61afc79ec",
         "type": "leaf",
-        "dimension": 58.11827956989247,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "computer-algebra.md",
+            "file": "research/research.md",
             "mode": "source"
           }
         },
-        "group": "f69ac9e540aee8ae"
+        "group": "0919c177786b2d54"
       },
       {
-        "id": "7b9ad6a76a5cf933",
-        "type": "split",
-        "dimension": 41.88172043010753,
-        "children": [
-          {
-            "id": "ceb4eb0119e1ceac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "computer-algebra.md",
-                "mode": "source"
-              }
-            },
-            "group": "f69ac9e540aee8ae"
-          },
-          {
-            "id": "c816341d9939e784",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "computer-algebra.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              }
-            },
-            "group": "f69ac9e540aee8ae"
+        "id": "556671a245b050ed",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "research/research.md",
+            "mode": "preview"
           }
-        ],
-        "direction": "horizontal"
+        },
+        "group": "0919c177786b2d54"
       }
     ],
     "direction": "vertical"
@@ -154,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computer-algebra.md"
+                "file": "research/research.md"
               }
             }
           },
@@ -196,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer-algebra.md",
+                "file": "research/research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,20 +166,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "c816341d9939e784",
+  "active": "ff41f2f61afc79ec",
   "lastOpenFiles": [
+    "research/research.md",
+    "index.md",
+    "sagemath/sage.md",
     "computer-algebra.md",
     "1st-year-calculus-but-in-python.md",
     "bookmarks.md",
     "environment.md",
     "sage.install.md",
-    "sagemath/sage.md",
     "sagemath/sage.resources.md",
-    "sagemath/sage.install.md",
-    "research/research.md",
-    "index.md"
+    "sagemath/sage.install.md"
   ]
 }
