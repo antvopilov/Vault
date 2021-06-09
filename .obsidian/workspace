@@ -9,10 +9,20 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "source"
+            "file": "docs/inbox.md",
+            "mode": "preview"
           }
-        }
+        },
+        "group": "437a25a8541d8bd9"
+      },
+      {
+        "id": "f14ec8376a543875",
+        "type": "leaf",
+        "state": {
+          "type": "external-media",
+          "state": {}
+        },
+        "group": "437a25a8541d8bd9"
       }
     ],
     "direction": "vertical"
@@ -96,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "docs/inbox.md"
               }
             }
           },
@@ -138,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "docs/inbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,6 +167,7 @@
   },
   "active": "ad1feb4d1320b45f",
   "lastOpenFiles": [
+    "docs/inbox.md",
     "README.md",
     "map.md",
     "_scripts/README.md",
@@ -165,7 +176,6 @@
     "Untitled.md",
     "docs/theoretical-physics/physics-notes/docs/fun0/index.md",
     "quick-links.md",
-    "inbox.md",
-    "2021-06-08.md"
+    "inbox.md"
   ]
 }

@@ -20,7 +20,7 @@ aliases: InBox
 
 [zotero-citations](https://atom.io/packages/zotero-citations)
 
-![Citations in Obsidian. - YouTube](https://www.youtube.com/watch?v=pvrbcL6Ywi4)
+[Citations in Obsidian. - YouTube](https://www.youtube.com/watch?v=pvrbcL6Ywi4)
 
 
 [Jupyter Notebooks as Markdown Documents, Julia, Python or R Scripts — Jupytext documentation](https://jupytext.readthedocs.io/en/latest/)
