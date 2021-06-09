@@ -10,7 +10,7 @@ aliases: Zotero
 ## [[BetterBibtex]]
 ## [[pyzotero]]
 ## [[ZotFile]]
-## [[Mdnotes]]
+## [[zotero-mdnotes]]
 
 
 

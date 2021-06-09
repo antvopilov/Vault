@@ -1,0 +1,5 @@
+---
+aliases: Mdnotes
+---
+
+[[zotero]] -  [[plugin]] 
