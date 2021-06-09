@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dd5a939e1875328c",
+        "id": "27fef6512503edb0",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "jupyter-lab/jupyterlab-awesome.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -45,7 +42,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275
+    "width": 275,
+    "collapsed": true
   },
   "right": {
     "id": "25bcc719c0442731",
@@ -95,9 +93,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "jupyter-lab/jupyterlab-awesome.md"
-              }
+              "state": {}
             }
           },
           {
@@ -123,44 +119,9 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
-          },
-          {
-            "id": "9c2d66729237df33",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "jupyter-lab/jupyterlab-awesome.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.6753388863052042,
-                  "close": true
-                }
-              }
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       },
       {
         "id": "98511bf7b3ba077e",
@@ -173,7 +134,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "jupyter-lab/jupyterlab-awesome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,19 +148,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 421
+    "width": 421,
+    "collapsed": true
   },
-  "active": "dd5a939e1875328c",
+  "active": "27fef6512503edb0",
   "lastOpenFiles": [
-    "jupyter-lab/awesome-jupyterLab.md",
+    "index.md",
+    "theoretical-physics/physics-notes/README.md",
+    "code.md",
+    "github/github-antvopilov.md",
+    "javascript/awesome-electron.md",
     "awesome.md",
+    "jupyter-lab/awesome-jupyterLab.md",
     "github/github-awesome.md",
     "github/github.md",
-    "github/github-antvopilov.md",
-    "atom/atom.io.md",
-    "index.md",
-    "jupyter-lab/jupyterlab.md",
-    "inbox.md",
-    "environment.md"
+    "atom/atom.io.md"
   ]
 }
