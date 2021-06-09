@@ -1,6 +1,8 @@
 # [[research-environment|Research Environment]]
 
-## Reference Management
+## [[reference-management]]
+
+[[research]]
 
 - [[zotero|Zotero]]
 	- [[zotero-plugins]]

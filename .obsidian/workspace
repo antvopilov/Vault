@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zotero-plugins.md",
+            "file": "inbox.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "zotero-plugins.md",
+            "file": "inbox.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -44,7 +44,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 250,
-              "scale": 1,
+              "scale": 0.7657061732091194,
               "close": false
             }
           }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zotero-plugins.md"
+                "file": "inbox.md"
               }
             }
           },
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zotero-plugins.md",
+                "file": "inbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,15 +195,15 @@
   },
   "active": "e41cf01c47dfcb88",
   "lastOpenFiles": [
-    "zotero-plugins.md",
-    "README.md",
-    "research-assistant.md",
-    "zotero.md",
-    "research-assistent.md",
-    "Untitled.md",
     "docs/inbox.md",
-    "map.md",
-    "_scripts/README.md",
-    "docs/notes/about.md"
+    "research.md",
+    "docs/theoretical-physics/physics-notes/docs/fun0/index.md",
+    "zotero.md",
+    "research-environment.md",
+    "Reference Management.md",
+    "zotero-plugins.md",
+    "ZotFile.md",
+    "README.md",
+    "research-assistant.md"
   ]
 }

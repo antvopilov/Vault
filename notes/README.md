@@ -2,7 +2,7 @@
 aliases: notes
 ---
 
-# [[docs/notes/README]]
+# [[notes/README]]
 
 ## Table Of Contents
 

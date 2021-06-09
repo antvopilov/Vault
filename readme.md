@@ -10,7 +10,7 @@ aliases:
 
 ![[quick-links#quick-links Quick Links]]
 
-! [[docs/notes/README|notes]]
+! [[notes/README|notes]]
 
 [[learning]]
 
