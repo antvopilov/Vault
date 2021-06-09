@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "atom/atom.md",
+            "file": "Untitled.md",
             "mode": "source"
           }
         }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "atom/atom.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "atom/atom.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,6 +157,8 @@
   },
   "active": "d259e0e9bcb4f021",
   "lastOpenFiles": [
+    "Untitled.md",
+    "atom-plugin-zotero-citations.md",
     "atom/atom.md",
     "code.md",
     "index.md",
@@ -164,8 +166,6 @@
     "library.md",
     "type.md",
     "python/python-library-pyzotero.md",
-    "zotero/zotero.md",
-    "pyzotero.md",
-    "zotero/ZotFile.md"
+    "zotero/zotero.md"
   ]
 }

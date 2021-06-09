@@ -18,4 +18,4 @@ aliases:
 - [Atom.io](https://atom.io/)
 
 ## Plugins
-- [[atom-plugin-zotero]]
+- [[atom-plugin-zotero-citations]]
