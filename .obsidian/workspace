@@ -6,11 +6,11 @@
       {
         "id": "d259e0e9bcb4f021",
         "type": "leaf",
-        "dimension": 41.13980409617097,
+        "dimension": 60.051052967453735,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "learning/learning.md",
+            "file": "bookmarks.md",
             "mode": "source"
           }
         },
@@ -19,7 +19,7 @@
       {
         "id": "5d7634c05339e1a4",
         "type": "split",
-        "dimension": 58.86019590382902,
+        "dimension": 39.948947032546265,
         "children": [
           {
             "id": "a03f13dc7a5f9028",
@@ -27,8 +27,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/learning.md",
-                "mode": "preview"
+                "file": "bookmarks.md",
+                "mode": "source"
               }
             },
             "group": "6709bdcbb1e39007"
@@ -39,7 +39,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "learning/learning.md",
+                "file": "bookmarks.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -103,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284
+    "width": 293
   },
   "right": {
     "id": "25bcc719c0442731",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learning/learning.md"
+                "file": "bookmarks.md"
               }
             }
           },
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learning/learning.md",
+                "file": "bookmarks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,15 +216,15 @@
   },
   "active": "d259e0e9bcb4f021",
   "lastOpenFiles": [
-    "learning/learning.md",
-    "learning/learning-project-based.md",
-    "learning/project-based-learning.md",
-    "jupyter-lab/jupyterlab-extensions.md",
-    "jupyter-lab/jupyterlab-awesome.md",
-    "jupyter-lab/jupyterlab.md",
-    "python/python.md",
-    "javascript/electron-awesome.md",
+    "bookmarks.md",
     "awesome.md",
-    "javascript/handlebars.js.md"
+    "application.md",
+    "1st-year-calculus-but-in-python.md",
+    "physics/physics-notes/docs/fun0/relativity.md",
+    "_templates/tp-yaml.md",
+    "_templates/tp-youtube.md",
+    "_templates/tp-blog.md",
+    "_templates/tp-book.md",
+    "_templates/tp-app.md"
   ]
 }
