@@ -8,14 +8,10 @@ aliases:
 # [[bookmarks|BookMarks]]
 
 
-## Tools
-- [Explain Shell](https://explainshell.com/)
+[[bookmarks-online-tools]]
 
+![[bookmarks-google]]
 
-## Google
-- [Google](https://google.com)
-- [Google-Drive](https://drive.google.com/) 
-- [Gmail](https://mail.google.com/)
 
 ## GitHub
 - [Vault - GitHub](https://github.com/antvopilov/Vault)

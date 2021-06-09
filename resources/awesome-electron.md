@@ -2,7 +2,7 @@
 
 ---
 
-# [[electron-awesome|Awesome Electron]]
+# [[awesome-electron|Awesome Electron]]
 
 > Useful resources for creating apps with [Electron](https://electronjs.org)
 

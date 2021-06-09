@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "neutrino-notes/neutrino-notes.md",
+            "file": "bookmarks-google.md",
             "mode": "source"
           }
         }
@@ -45,7 +45,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 398
+    "width": 421
   },
   "right": {
     "id": "25bcc719c0442731",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "neutrino-notes/neutrino-notes.md"
+                "file": "bookmarks-google.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "neutrino-notes/neutrino-notes.md",
+                "file": "bookmarks-google.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,20 +153,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 148,
-    "collapsed": true
+    "width": 404
   },
   "active": "388c498f190da8bd",
   "lastOpenFiles": [
+    "bookmarks-google.md",
+    "bookmarks.md",
+    "bookmarks-online-tools.md",
+    "awesome.md",
+    "resources/electron-awesome.md",
     "neutrino-notes/neutrino-notes.md",
     "type.md",
     "_scripts/README.md",
     "_templates/tp-yaml.md",
-    "resources/python.md",
-    "resources/tree.md",
-    "resources/1st-year-calculus-but-in-python.md",
-    "atom-plugin.md",
-    "index.md",
-    "bookmarks.md"
+    "resources/python.md"
   ]
 }
