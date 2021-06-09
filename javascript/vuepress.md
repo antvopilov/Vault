@@ -1,4 +1,4 @@
-[[js]] [[vue]] [[publishing]]
+[[javascript]] [[vue]] [[publishing]]
 
 # [[vuepress|VuePress]]
 

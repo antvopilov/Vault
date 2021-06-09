@@ -7,13 +7,13 @@ aliases:
 [[index|Home]] -
 [[code|Code]] 
 
-# [[js|JavaScript]]
+# [[javascript|JavaScript]]
 
 - [[react]]
-- [[react-native.js]]
+- [[react-native]]
 - [[create-react-app]]
-- [[electron.js]]
-- [[vue.js]]
-- [[tree.js]]
+- [[electron]]
+- [[vue]]
+- [[tree]]
 - [[typescript]]
-- [[node.js]]>)
+- [[node]]>)

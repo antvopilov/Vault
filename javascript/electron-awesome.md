@@ -1,4 +1,4 @@
-[[awesome]] [[electron.js]] [[js]]
+[[awesome]] [[electron]] [[javascript]]
 
 ---
 

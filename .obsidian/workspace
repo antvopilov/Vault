@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "javascript/react.md",
+            "file": "awesome.md",
             "mode": "source"
           }
         },
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript/react.md",
+                "file": "awesome.md",
                 "mode": "preview"
               }
             },
@@ -39,7 +39,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "javascript/react.md",
+                "file": "awesome.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -62,7 +62,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 1.0984778960942607,
                   "close": false
                 }
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "javascript/react.md"
+                "file": "awesome.md"
               }
             }
           },
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "javascript/react.md",
+                "file": "awesome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,17 +214,17 @@
     "width": 421,
     "collapsed": true
   },
-  "active": "d259e0e9bcb4f021",
+  "active": "f2ee6348615bfe1f",
   "lastOpenFiles": [
-    "javascript/react.js.md",
+    "awesome.md",
+    "javascript/electron-awesome.md",
+    "javascript/handlebars.js.md",
     "javascript/javascript.md",
-    "github/github.md",
-    "github/github-antvopilov.md",
-    "github/github-awesome.md",
-    "atom/atom.md",
-    "atom/atom.io.md",
-    "resources/1st-year-calculus-but-in-python.md",
-    "physics/physics.md",
-    "research/research.md"
+    "javascript/js.md",
+    "javascript/tree.js.md",
+    "javascript/node.js.md",
+    "javascript/vue.js.md",
+    "javascript/electron.js.md",
+    "javascript/create-react-app.md"
   ]
 }

@@ -1,5 +1,5 @@
 site: [Create React App](https://create-react-app.dev/)
 
-categories: [[js]] [[react]] [[application]]
+categories: [[javascript]] [[react]] [[application]]
 
 # [[create-react-app]]
