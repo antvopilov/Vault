@@ -13,7 +13,11 @@ aliases:
 ---
 
 # [[sage|SageMath]]
+## Files
 
+![[FPSAC Introduction to SageMath days101.ipynb]]
+
+![[SageTutorial_ru.pdf]]
 ## References
  - [SageMath - Open-Source Mathematical Software System](https://www.sagemath.org/)
  - [SageMath - Library](https://www.sagemath.org/library.html)
