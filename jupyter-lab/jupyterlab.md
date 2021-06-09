@@ -8,4 +8,4 @@
 
 [[jupyterlab-extensions]]
 
-[[awesome-jupyterLab]]
+[[jupyterlab-awesome]]

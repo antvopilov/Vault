@@ -1,10 +1,10 @@
 
 ---
-aliases: Awesome GitHub
+aliases: "GitHub: Awesome"
 ---
 
 [[github]] - 
 [[awesome]]
 
-# [[github-awesome|Awesome GitHub]]
+# [[github-awesome|GitHub: Awesome]]
  [GitHub](https://github.com/fffaraz/awesome-github)
