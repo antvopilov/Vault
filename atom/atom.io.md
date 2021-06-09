@@ -1,4 +1,8 @@
-[[code]] [[editor]] [[application]]
+[[index]] - [[code]] - [[editor]] 
+
+[[application]]
+
+---
 
 # [[atom.io]]
 

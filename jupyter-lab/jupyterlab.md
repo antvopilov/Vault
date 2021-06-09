@@ -1,4 +1,7 @@
-[[code]] [[python]]
+[[index]] -
+[[code]] -
+[[python]] -
+
 
 # JupyterLab
 [Documentation](https://jupyterlab.readthedocs.io/en/stable/)

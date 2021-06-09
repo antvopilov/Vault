@@ -2,8 +2,7 @@
 aliases: GitHub
 ---
 
-[[index]] -
-[[code]]
+[[index]] - [[code]]
 
 ---
 

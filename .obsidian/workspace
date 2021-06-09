@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "python/python-awesome.md",
+            "file": "github/github-antvopilov.md",
             "mode": "source"
           }
         }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python/python-awesome.md"
+                "file": "github/github-antvopilov.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "python/python-awesome.md",
+                "file": "github/github-antvopilov.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python/python-awesome.md",
+                "file": "github/github-antvopilov.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,15 +192,15 @@
   },
   "active": "9c77889b18471f29",
   "lastOpenFiles": [
-    "python/awesome-python-applications.md",
+    "github/github-antvopilov.md",
+    "github/github.md",
+    "atom/atom.io.md",
+    "index.md",
+    "jupyter-lab/jupyterlab.md",
+    "inbox.md",
     "environment.md",
-    "pycharm/pycharm.md",
-    "pycharm/pycharm.setup.md",
-    "processing/processing.md",
-    "mac/cheatsheet.md",
-    "mac/customshortcuts.md",
-    "mac/mac.md",
-    "mac/mac-awesome.md",
-    "mac/mac-bookmarks.md"
+    "code.md",
+    "bookmarks.md",
+    "application.md"
   ]
 }
