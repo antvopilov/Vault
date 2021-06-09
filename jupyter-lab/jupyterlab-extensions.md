@@ -1,4 +1,4 @@
-[[jupyterlab]]
+[[jupyterlab]] [[extensions]]
 
 # JupyterLab Extensions
 

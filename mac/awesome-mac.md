@@ -1,4 +1,4 @@
-[[awesome]] [[mac]] [[app]] 
+[[awesome]] [[mac]] 
 # [[awesome-mac]]
 
 ## Contents
