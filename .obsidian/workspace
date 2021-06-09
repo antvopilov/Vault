@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "obsidian/obsidian-plugins.md",
+            "file": "zotero/zotero.md",
             "mode": "source"
           }
         }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian/obsidian-plugins.md"
+                "file": "zotero/zotero.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian/obsidian-plugins.md",
+                "file": "zotero/zotero.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,9 +157,9 @@
   },
   "active": "d259e0e9bcb4f021",
   "lastOpenFiles": [
-    "obsidian/obsidian-plugins.md",
     "zotero/zotero.md",
     "Untitled.md",
+    "obsidian/obsidian-plugins.md",
     "atom-plugin-zotero-citations.md",
     "atom/atom.md",
     "code.md",
