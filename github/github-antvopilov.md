@@ -6,8 +6,8 @@ aliases: Anton Vopilov
 [[code|Code]] -
 [[github|GitHub]]
 
-# [[github-antvopilov|Anton Vopilov]]
+# [[github-antvopilov|Anton Vopilov - GitHub]]
 
-- [portfolio](https://github.com/antvopilov/antvopilov)
-- [website](https://antvopilov.github.io/)
-- [website-repository](https://github.com/antvopilov/antvopilov.github.io)
+- [Portfolio](https://github.com/antvopilov/antvopilov)
+- [Site](https://antvopilov.github.io/)
+- [Site Repository](https://github.com/antvopilov/antvopilov.github.io)

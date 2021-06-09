@@ -9,5 +9,6 @@ aliases: GitHub
 
 # [[github|GitHub]]
 
-[[github-antvopilov|Anton Vopilov]]
+![[github-antvopilov#github-antvopilov Anton Vopilov - GitHub]]
 - [[github-awesome]]
+
