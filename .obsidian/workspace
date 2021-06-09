@@ -4,25 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ad1feb4d1320b45f",
+        "id": "e41cf01c47dfcb88",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/inbox.md",
-            "mode": "preview"
+            "file": "zotero.md",
+            "mode": "source"
           }
-        },
-        "group": "437a25a8541d8bd9"
-      },
-      {
-        "id": "f14ec8376a543875",
-        "type": "leaf",
-        "state": {
-          "type": "external-media",
-          "state": {}
-        },
-        "group": "437a25a8541d8bd9"
+        }
       }
     ],
     "direction": "vertical"
@@ -106,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/inbox.md"
+                "file": "zotero.md"
               }
             }
           },
@@ -148,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/inbox.md",
+                "file": "zotero.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,17 +153,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "ad1feb4d1320b45f",
+  "active": "e41cf01c47dfcb88",
   "lastOpenFiles": [
+    "Untitled.md",
     "docs/inbox.md",
     "README.md",
     "map.md",
     "_scripts/README.md",
     "docs/notes/about.md",
     "_scripts/index.scripts.md",
-    "Untitled.md",
     "docs/theoretical-physics/physics-notes/docs/fun0/index.md",
     "quick-links.md",
     "inbox.md"
