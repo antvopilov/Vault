@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "map.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "map.md"
+                "file": "README.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "map.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,9 +157,9 @@
   },
   "active": "ad1feb4d1320b45f",
   "lastOpenFiles": [
+    "README.md",
     "map.md",
     "_scripts/README.md",
-    "README.md",
     "docs/notes/about.md",
     "_scripts/index.scripts.md",
     "Untitled.md",
