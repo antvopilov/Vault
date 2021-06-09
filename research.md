@@ -13,12 +13,11 @@ aliases:
 
 ## Resources
 
-[[tex.tutorials]]
-### YouTube Lectures
+### Tutorials
+ - [[tex.tutorials]]
+ 
+### YouTube
 
-[Academic Lesson - YouTube](https://www.youtube.com/channel/UCwM4EI8mqvsSUR7Ou1D0qrA)
+- [Academic Lesson - YouTube](https://www.youtube.com/channel/UCwM4EI8mqvsSUR7Ou1D0qrA)
 
-$$
-\alpha = \intercal
-$$
 
