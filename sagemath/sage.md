@@ -8,7 +8,7 @@ aliases:
 
 [[code]] -
 [[research]] -
-[[environment]] -
+[[environment]] 
 
 ---
 
