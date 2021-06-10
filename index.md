@@ -21,5 +21,6 @@ aliases: Home
 	- [[resources]]
 
 ---
+[[notes/physics/index|physics]]
 
 [[inbox]] 

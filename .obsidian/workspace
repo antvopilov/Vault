@@ -7,8 +7,11 @@
         "id": "1a3b8c42fa3d1e31",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "obsidian.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -92,7 +95,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "obsidian.md"
+              }
             }
           },
           {
@@ -133,6 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,15 +157,15 @@
   },
   "active": "1a3b8c42fa3d1e31",
   "lastOpenFiles": [
+    "obsidian.md",
+    "resources/obsidian-plugins.md",
+    "inbox.md",
     "index.md",
     "type.md",
+    "physics/physics-notes.md",
+    "physics.md",
     "physics-notes.md",
     "library.md",
-    "inbox.md",
-    "environment.md",
-    "application.md",
-    "google.md",
-    "code.md",
-    "bookmarks.md"
+    "environment.md"
   ]
 }
