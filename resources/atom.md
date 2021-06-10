@@ -8,7 +8,7 @@ aliases:
 [[index|Home]] - 
 [[code|Code]] -
 [[editor|Editor]] - 
-[[application|Application]] 
+[[app|Application]] 
 
 ---
 

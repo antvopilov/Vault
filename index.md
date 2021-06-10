@@ -12,7 +12,7 @@ aliases: Home
 			- [[atom-plugin]]
 			- [[atom-plugin-zotero-citations]]
 		- [[github]]
-		- [[javascript]]
+		- [[js]]
 		- [[jupyterlab]]
 		- [[python]]
 		- [[pycharm]]
