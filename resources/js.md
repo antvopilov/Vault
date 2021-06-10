@@ -16,4 +16,4 @@ aliases:
 - [[vue]]
 - [[js-tree]]
 - [[typescript]]
-- [[node]]>)
+- [[js-node]]>)

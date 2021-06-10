@@ -2,8 +2,7 @@
 aliases: CustomShortcuts
 ---
 
-[[mac]] -
-[[environment]]
+[[mac]] [[app]]
 
 # [[mac-app-customshortcuts|CustomShortcuts]]
 
