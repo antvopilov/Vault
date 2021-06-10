@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "resources/github-repositories.md",
             "mode": "source"
           }
         }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "resources/github-repositories.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "resources/github-repositories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,6 +157,8 @@
   },
   "active": "1a3b8c42fa3d1e31",
   "lastOpenFiles": [
+    "resources/github-repositories.md",
+    "resources/github.md",
     "README.md",
     "Untitled.md",
     "index.md",
@@ -164,8 +166,6 @@
     "resources/pycharm.md",
     "resources/processing.md",
     "resources/online-tools-bookmarks.md",
-    "resources/obsidian-plugin-templater.md",
-    "resources/obsidian-plugin-dataview.md",
-    "resources/obsidian-plugin.md"
+    "resources/obsidian-plugin-templater.md"
   ]
 }
