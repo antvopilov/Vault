@@ -19,6 +19,7 @@ aliases: Home
 	- [[research]]
 	- [[learning]]
 	- [[resources]]
+	- [[mac]]
 
 ---
 [[notes/physics/index|physics]]

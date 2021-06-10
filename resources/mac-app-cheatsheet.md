@@ -3,7 +3,7 @@ aliases: CheatSheet
 ---
 
 [[mac]] - 
-[[environment]]
+[[app]]
 
 
 # [[mac-app-cheatsheet|CheatSheet]]

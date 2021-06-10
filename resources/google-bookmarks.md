@@ -5,7 +5,7 @@ aliases:
 
 [[bookmarks]] [[google]]
 
-# [[bookmarks-google|BookMarks: Google]] 
+# [[google-bookmarks|BookMarks: Google]] 
 
 - [Google](https://google.com)
 - [Google-Drive](https://drive.google.com/) 

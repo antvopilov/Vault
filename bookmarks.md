@@ -8,9 +8,9 @@ aliases:
 # [[bookmarks|BookMarks]]
 
 
-[[bookmarks-online-tools]]
+[[online-tools-bookmarks]]
 
-[[bookmarks-google]]
+[[google-bookmarks]]
 
 
 

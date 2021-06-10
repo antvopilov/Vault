@@ -1,5 +1,5 @@
 [[js]]
 
-# [[handlebars]]
+# [[js-handlebars]]
 
 https://handlebarsjs.com/
