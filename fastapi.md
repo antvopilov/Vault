@@ -1,0 +1,1 @@
+[[FastAPI - A python framework | Full Course]]
