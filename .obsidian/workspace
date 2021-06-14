@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PyMuPDF.md",
+            "file": "Untitled.md",
             "mode": "source"
           }
         }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PyMuPDF.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PyMuPDF.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,8 +158,8 @@
   },
   "active": "ce582e574d914e16",
   "lastOpenFiles": [
-    "PyMuPDF.md",
     "Untitled.md",
+    "PyMuPDF.md",
     "conda-cheatsheet.md",
     "pdfs/conda-cheatsheet.pdf",
     "Flexx.md",
