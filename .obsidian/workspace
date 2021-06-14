@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "4a62d1f03215a743",
+        "id": "ce582e574d914e16",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -156,7 +156,7 @@
     "width": 404,
     "collapsed": true
   },
-  "active": "4a62d1f03215a743",
+  "active": "ce582e574d914e16",
   "lastOpenFiles": [
     "PyMuPDF.md",
     "Untitled.md",

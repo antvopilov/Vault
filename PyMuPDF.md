@@ -1,6 +1,8 @@
 # [[PyMuPDF]]
 
-[GitHub - pymupdf/PyMuPDF: Python bindings for MuPDF's rendering library.](https://github.com/pymupdf/PyMuPDF)
+[PyMuPDF: Python bindings for MuPDF's rendering library.](https://github.com/pymupdf/PyMuPDF)
+
+[PyMuPDF Wiki · GitHub](https://github.com/pymupdf/PyMuPDF/wiki)
 
 ## Install 
 ```sh
