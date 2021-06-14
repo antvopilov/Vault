@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "1a3b8c42fa3d1e31",
+        "id": "2b412d669cc745bd",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "FastAPI - A python framework.md",
-            "mode": "source"
+            "file": "best-of-python.md",
+            "mode": "preview"
           }
         }
       }
@@ -45,7 +45,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 421
+    "width": 241
   },
   "right": {
     "id": "25bcc719c0442731",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FastAPI - A python framework.md"
+                "file": "best-of-python.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FastAPI - A python framework.md",
+                "file": "best-of-python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,12 +153,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 404
+    "width": 404,
+    "collapsed": true
   },
-  "active": "1a3b8c42fa3d1e31",
+  "active": "2b412d669cc745bd",
   "lastOpenFiles": [
-    "FastAPI - A python framework.md",
     "Untitled.md",
+    "FastAPI - A python framework.md",
     "resources/github-repositories.md",
     "resources/github.md",
     "README.md",
