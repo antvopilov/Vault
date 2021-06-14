@@ -2,7 +2,8 @@
 
 ### Libraries & Frameworks
 
-[Angular](http://angular.io)
+- [Angular](http://angular.io)
+- [GitHub - angular/angular: The modern web developer’s platform](https://github.com/angular/angular)
 
 ## PDF
 
