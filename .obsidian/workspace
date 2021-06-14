@@ -7,8 +7,11 @@
         "id": "4a62d1f03215a743",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "note-taking.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -92,7 +95,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "note-taking.md"
+              }
             }
           },
           {
@@ -133,6 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "note-taking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,10 +158,10 @@
   },
   "active": "4a62d1f03215a743",
   "lastOpenFiles": [
+    "Untitled.md",
     "conda-cheatsheet.md",
     "pdfs/conda-cheatsheet.pdf",
     "Flexx.md",
-    "Untitled.md",
     "FastAPI - A python framework.md",
     "resources/github-repositories.md",
     "resources/github.md",
