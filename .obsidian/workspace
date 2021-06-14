@@ -7,10 +7,9 @@
         "id": "2b412d669cc745bd",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "Flexx.md",
-            "mode": "source"
+            "file": "pdfs/conda-cheatsheet.pdf"
           }
         }
       }
@@ -96,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flexx.md"
+                "file": "pdfs/conda-cheatsheet.pdf"
               }
             }
           },
@@ -138,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flexx.md",
+                "file": "pdfs/conda-cheatsheet.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,6 +157,7 @@
   },
   "active": "2b412d669cc745bd",
   "lastOpenFiles": [
+    "pdfs/conda-cheatsheet.pdf",
     "Flexx.md",
     "Untitled.md",
     "FastAPI - A python framework.md",
@@ -166,7 +166,6 @@
     "README.md",
     "index.md",
     "notes/physics/index.md",
-    "resources/pycharm.md",
-    "resources/processing.md"
+    "resources/pycharm.md"
   ]
 }
