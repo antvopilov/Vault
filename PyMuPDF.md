@@ -9,4 +9,6 @@ brew install mupdf-tools
 
 ### Reference
 
-[MuPDF - Artifex](https://artifex.com/products/mupdf/)
+[MuPDF](https://mupdf.com/)
+
+[PyMuPDF Documentation — PyMuPDF 1.18.14 documentation](https://pymupdf.readthedocs.io/en/latest/)
