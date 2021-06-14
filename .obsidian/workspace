@@ -4,13 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2b412d669cc745bd",
+        "id": "4a62d1f03215a743",
         "type": "leaf",
         "state": {
-          "type": "pdf",
-          "state": {
-            "file": "pdfs/conda-cheatsheet.pdf"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -94,9 +92,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "pdfs/conda-cheatsheet.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -137,7 +133,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pdfs/conda-cheatsheet.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,8 +150,9 @@
     "width": 404,
     "collapsed": true
   },
-  "active": "2b412d669cc745bd",
+  "active": "4a62d1f03215a743",
   "lastOpenFiles": [
+    "conda-cheatsheet.md",
     "pdfs/conda-cheatsheet.pdf",
     "Flexx.md",
     "Untitled.md",
@@ -165,7 +161,6 @@
     "resources/github.md",
     "README.md",
     "index.md",
-    "notes/physics/index.md",
-    "resources/pycharm.md"
+    "notes/physics/index.md"
   ]
 }
