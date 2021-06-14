@@ -2,6 +2,8 @@
 
 ### Libraries & Frameworks
 
+[Angular](http://angular.io)
+
 ## PDF
 
 ### Python Libraries
