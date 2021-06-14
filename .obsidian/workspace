@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "best-of-python.md",
-            "mode": "preview"
+            "file": "Enaml.md",
+            "mode": "source"
           }
         }
       }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "best-of-python.md"
+                "file": "Enaml.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "best-of-python.md",
+                "file": "Enaml.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
