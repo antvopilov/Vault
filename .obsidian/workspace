@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ce582e574d914e16",
+        "id": "8cacb50d33d84fa4",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "reseacher-app.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -95,9 +92,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "reseacher-app.md"
-              }
+              "state": {}
             }
           },
           {
@@ -138,7 +133,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reseacher-app.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,8 +150,9 @@
     "width": 404,
     "collapsed": true
   },
-  "active": "ce582e574d914e16",
+  "active": "8cacb50d33d84fa4",
   "lastOpenFiles": [
+    "resources/vscode-extensions.md",
     "reseacher-app.md",
     "note-taking.md",
     "Untitled.md",
@@ -166,7 +161,6 @@
     "pdfs/conda-cheatsheet.pdf",
     "Flexx.md",
     "FastAPI - A python framework.md",
-    "resources/github-repositories.md",
-    "resources/github.md"
+    "resources/github-repositories.md"
   ]
 }
