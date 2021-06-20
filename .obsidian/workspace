@@ -7,8 +7,11 @@
         "id": "8cacb50d33d84fa4",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "app.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -51,7 +54,7 @@
       {
         "id": "7db9a0b76d625873",
         "type": "tabs",
-        "dimension": 41.11531190926276,
+        "dimension": 16.64050235478807,
         "children": [
           {
             "id": "250304fc82b98576",
@@ -92,7 +95,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "app.md"
+              }
             }
           },
           {
@@ -123,9 +128,9 @@
         "currentTab": 6
       },
       {
-        "id": "98511bf7b3ba077e",
+        "id": "623b8e6fd6339e5b",
         "type": "tabs",
-        "dimension": 58.884688090737235,
+        "dimension": 38.22605965463109,
         "children": [
           {
             "id": "f4a9d1bd8a40b6c6",
@@ -133,6 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "app.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,14 +150,56 @@
             }
           }
         ]
+      },
+      {
+        "id": "04b009ff8f55957a",
+        "type": "tabs",
+        "dimension": 45.13343799058085,
+        "children": [
+          {
+            "id": "705ec305f7ed882d",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "app.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.5968551585988893,
+                  "close": false
+                }
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 404,
-    "collapsed": true
+    "width": 544.0001220703125
   },
   "active": "8cacb50d33d84fa4",
   "lastOpenFiles": [
+    "app.md",
     "resources/vscode-extensions.md",
     "reseacher-app.md",
     "note-taking.md",
@@ -160,7 +208,6 @@
     "conda-cheatsheet.md",
     "pdfs/conda-cheatsheet.pdf",
     "Flexx.md",
-    "FastAPI - A python framework.md",
-    "resources/github-repositories.md"
+    "FastAPI - A python framework.md"
   ]
 }
