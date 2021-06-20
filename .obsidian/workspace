@@ -40,8 +40,17 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "146641d77a12a49d",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
